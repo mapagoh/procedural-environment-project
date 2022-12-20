@@ -1,8 +1,13 @@
 import pandas as pd
+import inspect
+
 crosslinkage_table = pd.read_csv("/data/crosslinkage_table.csv")
 crosslinkage_table.head()
 columns=list(crosslinkage_table.columns)
 rows=crosslinkage_table.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 crosslinkage_table.to_sql("crosslinkage_table", if_exists="replace", index=False)
 crosslinkage_table.tail()
 crosslinkage_table.describe()
@@ -19,6 +24,9 @@ data_bgmeasures=pd.read_csv("/data/data_bgmeasures.csv")
 data_bgmeasures.head()
 columns=list(data_bgmeasures.columns)
 rows=data_bgmeasures.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bgmeasures.to_sql("data_bgmeasures", if_exists="replace", index=False)
 data_bgmeasures.tail()
 data_bgmeasures.describe()
@@ -34,6 +42,9 @@ data_bgmonitoring=pd.read_csv("/data/data_bgmonitoring.csv")
 data_bgmonitoring.head()
 columns=list(data_bgmonitoring.columns)
 rows=data_bgmonitoring.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bgmonitoring.to_sql("data_bgmonitoring", if_exists="replace", index=False)
 data_bgmonitoring.tail()
 data_bgmonitoring.describe()
@@ -49,6 +60,9 @@ data_bgnon_native_bird=pd.read_csv("data/data_bgnon_native_bird.csv")
 data_bgnon_native_bird.head()
 columns=list(data_bgnon_native_bird.columns)
 rows=data_bgnon_native_bird.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bgnon_native_bird.to_sql("data_bgnon_native_bird", if_exists="replace", index=False)
 data_bgnon_native_bird.tail()
 data_bgnon_native_bird.describe()
@@ -64,6 +78,9 @@ data_bgpublication=pd.read_csv("data/data_bgpublication.csv")
 data_bgpublication.head()
 columns=list(data_bgpublication.columns)
 rows=data_bgpublication.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bgpublication.to_sql("data_bgpublication", if_exists="replace", index=False)
 data_bgpublication.tail()
 data_bgpublication.describe()
@@ -79,6 +96,9 @@ data_bgreport=pd.read_csv("data/data_bgreport.csv")
 data_bgreport.head()
 columns=list(data_bgreport.columns)
 rows=data_bgreport.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bgreport.to_sql("data_bgreport", if_exists="replace", index=False)
 data_bgreport.tail()
 data_bgreport.describe()
@@ -94,6 +114,9 @@ data_birds_check_list=pd.read_csv("data/data_birds_check_list.csv")
 data_birds_check_list.head()
 columns=list(data_birds_check_list.columns)
 rows=data_birds_check_list.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_birds_check_list.to_sql("data_birds_check_list", if_exists="replace", index=False)
 data_birds_check_list.tail()
 data_birds_check_list.describe()
@@ -109,6 +132,9 @@ data_birds_eu_breeding_trends=pd.read_csv("data/data_birds_eu_breeding_trends.cs
 data_birds_eu_breeding_trends.head()
 columns=list(data_birds_eu_breeding_trends.columns)
 rows=data_birds_eu_breeding_trends.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_birds_eu_breeding_trends.to_sql("data_birds_eu_breeding_trends", if_exists="replace", index=False)
 data_birds_eu_breeding_trends.tail()
 data_birds_eu_breeding_trends.describe()
@@ -124,6 +150,9 @@ data_birds_eu_status=pd.read_csv("data/data_birds_eu_status.csv")
 data_birds_eu_status.head()
 columns=list(data_birds_eu_status.columns)
 rows=data_birds_eu_status.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_birds_eu_status.to_sql("data_birds_eu_status", if_exists="replace", index=False)
 data_birds_eu_status.tail()
 data_birds_eu_status.describe()
@@ -139,6 +168,9 @@ data_birds_eu_wintering_trends=pd.read_csv("data/data_birds_eu_wintering_trends.
 data_birds_eu_wintering_trends.head()
 columns=list(data_birds_eu_wintering_trends.columns)
 rows=data_birds_eu_wintering_trends.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_birds_eu_wintering_trends.to_sql("data_birds_eu_wintering_trends", if_exists="replace", index=False)
 data_birds_eu_wintering_trends.tail()
 data_birds_eu_wintering_trends.describe()
@@ -154,6 +186,9 @@ data_birds=pd.read_csv("data/data_birds.csv")
 data_birds.head()
 columns=list(data_birds.columns)
 rows=data_birds.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_birds.to_sql("data_birds", if_exists="replace", index=False)
 data_birds.tail()
 data_birds.describe()
@@ -169,6 +204,9 @@ data_bmeasures=pd.read_csv("data/data_bmeasures.csv")
 data_bmeasures.head()
 columns=list(data_bmeasures.columns)
 rows=data_bmeasures.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bmeasures.to_sql("data_bmeasures", if_exists="replace", index=False)
 data_bmeasures.tail()
 data_bmeasures.describe()
@@ -184,6 +222,9 @@ data_bpressures_threats=pd.read_csv("data/data_bpressures_threats.csv")
 data_bpressures_threats.head()
 columns=list(data_bpressures_threats.columns)
 rows=data_bpressures_threats.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 data_bpressures_threats.to_sql("data_bpressures_threats", if_exists="replace", index=False)
 data_bpressures_threats.tail()
 data_bpressures_threats.describe()
@@ -199,6 +240,9 @@ species_birds_maes_EU27=pd.read_csv("data/species_birds_maes_EU27.csv")
 species_birds_maes_EU27.head()
 columns=list(species_birds_maes_EU27.columns)
 rows=species_birds_maes_EU27.shape[0]
+for  data in inspect.getmembers(columns):
+    if data.startswith('__'):
+        continue
 species_birds_maes_EU27.to_sql("species_birds_maes_EU27", if_exists="replace", index=False)
 species_birds_maes_EU27.tail()
 species_birds_maes_EU27.describe()
