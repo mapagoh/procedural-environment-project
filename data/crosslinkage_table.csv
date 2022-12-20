@@ -1,0 +1,606 @@
+﻿ID,speciescode,speciesname,sub_unit,assessment_code_EU,assessment_specname_EU,season,assessment_code_trend_breeding,assessment_specname_trend_breeding,assessment_code_trend_wintering,assessment_specname_trend_wintering,addtionnal_record
+605,A740,Hippolais pallida,,22705002,Hippolais opaca,B,22734747,Hippolais pallida,,,True
+584,A693,Puffinus mauretanicus,,111111,Puffinus puffinus mauretanicus (Puffinus mauretanicus),B,,,,,True
+593,A037,Cygnus columbianus bewickii,Western Siberia & NE Europe/North-west Europe,111112,Cygnus columbianus bewickii,W,,,,,True
+591,A453,Pyrrhula murina,,111113,Pyrrhula murina (Pyrrhula pyrrhula murina),B,,,,,True
+595,A414,Perdix perdix italica,,111126,Perdix perdix italica,B,,,,,True
+596,A415,Perdix perdix hispaniensis,,111127,Perdix perdix hispaniensis,B,,,,,True
+597,A466-A,Calidris alpina schinzii,Britain & Ireland/SW Europe & NW Africa,111129,Calidris alpina schinzii (Britain & Ireland),B,,,,,True
+598,A466-B,Calidris alpina schinzii,Baltic/SW Europe & NW Africa,111130,Calidris alpina schinzii (Baltic),B,,,,,True
+604,A419,Uria aalge ibericus,,111131,Uria aalge ibericus,B,,,,,True
+599,A421,Columba palumbus azorica,,111132,Columba palumbus azorica,B,,,,,True
+600,A427,Dendrocopos major canariensis,,111133,Dendrocopos major canariensis,B,,,,,True
+601,A428,Dendrocopos major thanneri,,111134,Dendrocopos major thanneri,B,,,,,True
+602,A434,Troglodytes troglodytes fridariensis,,111135,Troglodytes troglodytes fridariensis,B,,,,,True
+603,A469,Certhia brachydactyla dorotheae,,111137,Certhia brachydactyla dorotheae,B,,,,,True
+594,A470,Parus ater cypriotes,,111136,Parus ater cypriotes,B,,,,,True
+590,A448,Fringilla coelebs ombriosa,,111138,Fringilla coelebs ombriosa,B,,,,,True
+357,A303,Sylvia conspicillata,,22716976,Sylvia conspicillata,B,22716976,Sylvia conspicillata,,,False
+358,A308,Sylvia curruca,,22716915,Sylvia curruca,B,22716915,Sylvia curruca,,,False
+359,A306,Sylvia hortensis,,22716942,Sylvia hortensis,B,22716942,Sylvia hortensis,,,False
+360,A305,Sylvia melanocephala,,22716959,Sylvia melanocephala,B,22716959,Sylvia melanocephala,,,False
+361,A468,Sylvia melanothorax,,22716963,Sylvia melanothorax,B,22716963,Sylvia melanothorax,,,False
+362,A307,Sylvia nisoria,,22716937,Sylvia nisoria,B,22716937,Sylvia nisoria,,,False
+363,A301,Sylvia sarda,,22716987,Sylvia sarda,B,22716987,Sylvia sarda,,,False
+364,A228,Tachymarptis melba,,22686774,Tachymarptis melba,B,22686774,Tachymarptis melba,,,False
+365,A397-A,Tadorna ferruginea,North-west Africa,22680003,Tadorna ferruginea,B,22680003,Tadorna ferruginea,,,False
+366,A397-B,Tadorna ferruginea,East Mediterranean & Black Sea/North-east Africa,22680003,Tadorna ferruginea,B,22680003,Tadorna ferruginea,,,False
+367,A397-X,Tadorna ferruginea,,,,,,,,,False
+368,A048,Tadorna tadorna,,22680024,Tadorna tadorna,B,22680024,Tadorna tadorna,22680024,Tadorna tadorna,False
+369,A534,Tarsiger cyanurus,,22709733,Tarsiger cyanurus,B,22709733,Tarsiger cyanurus,,,False
+370,A333,Tichodroma muraria,,22711234,Tichodroma muraria,B,22711234,Tichodroma muraria,,,False
+371,A161,Tringa erythropus,,22693207,Tringa erythropus,B,22693207,Tringa erythropus,,,False
+372,A166,Tringa glareola,,22693247,Tringa glareola,B,22693247,Tringa glareola,,,False
+373,A164,Tringa nebularia,,22693220,Tringa nebularia,B,22693220,Tringa nebularia,,,False
+374,A165,Tringa ochropus,,22693243,Tringa ochropus,B,22693243,Tringa ochropus,,,False
+375,A163,Tringa stagnatilis,,22693216,Tringa stagnatilis,B,22693216,Tringa stagnatilis,,,False
+376,A162,Tringa totanus,,22693211,Tringa totanus,B,22693211,Tringa totanus,22693211,Tringa totanus,False
+377,A286,Turdus iliacus,,22708819,Turdus iliacus,B,22708819,Turdus iliacus,,,False
+378,A283,Turdus merula,,22708775,Turdus merula,B,22708775,Turdus merula,,,False
+379,A285,Turdus philomelos,,22708822,Turdus philomelos,B,22708822,Turdus philomelos,,,False
+380,A284,Turdus pilaris,,22708816,Turdus pilaris,B,22708816,Turdus pilaris,,,False
+381,A282,Turdus torquatus,,22708768,Turdus torquatus,B,22708768,Turdus torquatus,,,False
+382,A287,Turdus viscivorus,,22708829,Turdus viscivorus,B,22708829,Turdus viscivorus,,,False
+383,A717,Turnix sylvaticus,,22680500,Turnix sylvaticus,B,22680500,Turnix sylvaticus,,,False
+384,A213,Tyto alba,,22688504,Tyto alba,B,22688504,Tyto alba,,,False
+385,A232,Upupa epops,,22682655,Upupa epops,B,22682655,Upupa epops,,,False
+386,A728,Vanellus spinosus,Black Sea & Mediterranean (bre),22693983,Vanellus spinosus,B,22693983,Vanellus spinosus,22693983,Vanellus spinosus,False
+387,A142,Vanellus vanellus,"Europe, W Asia/Europe, N Africa & SW Asia",22693949,Vanellus vanellus,B,22693949,Vanellus vanellus,22693949,Vanellus vanellus,False
+388,A167,Xenus cinereus,,22693251,Xenus cinereus,B,22693251,Xenus cinereus,,,False
+389,A400,Accipiter gentilis arrigonii,,22695683,Accipiter gentilis,B,22695683,Accipiter gentilis arrigonii,,,False
+390,A619,Accipiter gentilis gentilis,,22695683,Accipiter gentilis,B,22695683,Accipiter gentilis gentilis,,,False
+391,A401,Accipiter nisus granti,,22695624,Accipiter nisus,B,22695624,Accipiter nisus granti,,,False
+392,A633,Accipiter nisus nisus,,22695624,Accipiter nisus,B,22695624,Accipiter nisus nisus,,,False
+393,A765-X,Acridotheres cristatellus,,,,,,,,,False
+394,A848-X,Agapornis roseicollis,,,,,,,,,False
+395,A553-X,Aix galericulata,,,,,,,,,False
+396,A749-X,Aix sponsa,,,,,,,,,False
+397,A465,Alectoris graeca graeca,,22678684,Alectoris graeca,B,22678684,Alectoris graeca,,,False
+398,A412,Alectoris graeca saxatilis,,22678684,Alectoris graeca,B,22678684,Alectoris graeca,,,False
+399,A413,Alectoris graeca whitakeri,,22678684,Alectoris graeca,B,22678684,Alectoris graeca,,,False
+400,A748-X,Alopochen aegyptiaca,,,,,,,,,False
+401,A764-X,Amandava amandava,,,,,,,,,False
+402,A704,Anas crecca crecca,,22729717,Anas crecca,B,22729717,Anas crecca,22729717,Anas crecca,False
+403,A705,Anas platyrhynchos platyrhynchos,,22680186,Anas platyrhynchos,B,22680186,Anas platyrhynchos,22680186,Anas platyrhynchos,False
+404,A703,Anas strepera strepera,,22680149,Anas strepera,B,22680149,Anas strepera,22680149,Anas strepera,False
+405,A394,Anser albifrons albifrons,,22679881,Anser albifrons,W,,,22679881,Anser albifrons albifrons,False
+406,A395,Anser albifrons flavirostris,Greenland/Ireland & UK,22679881,Anser albifrons,W,,,22679881,Anser albifrons flavirostris,False
+407,A701,Anser fabalis fabalis,North-east Europe/North-west Europe,22679875,Anser fabalis,B,22679875,Anser fabalis,22679875,Anser fabalis,False
+408,A702,Anser fabalis rossicus,West & Central Siberia/NE & SW Europe,22679875,Anser fabalis,B,22679875,Anser fabalis,22679875,Anser fabalis,False
+409,A845-X,Anser indicus,,,,,,,,,False
+410,A699,Ardea cinerea cinerea,,22696993,Ardea cinerea,B,22696993,Ardea cinerea,,,False
+411,A634-A,Ardea purpurea purpurea,West Europe & West Mediterranean/West Africa,22697031,Ardea purpurea,B,22697031,Ardea purpurea,,,False
+412,A634-B,Ardea purpurea purpurea,"East Europe, Black Sea & Mediterranean/Sub-Saharan Africa",22697031,Ardea purpurea,B,22697031,Ardea purpurea,,,False
+413,A635,Ardeola ralloides ralloides,,22697123,Ardeola ralloides,B,22697123,Ardeola ralloides,,,False
+414,A688-B,Botaurus stellaris stellaris,"C & E Europe, Black Sea & E Mediterranean (bre)",22697346,Botaurus stellaris,B,22697346,Botaurus stellaris,,,False
+415,A688-A,Botaurus stellaris stellaris,"W Europe, NW Africa (bre)",22697346,Botaurus stellaris,B,22697346,Botaurus stellaris,,,False
+416,A675,Branta bernicla bernicla,Western Siberia/Western Europe,22679946,Branta bernicla,W,,,22679946,Branta bernicla,False
+417,A674-A,Branta bernicla hrota,Canada & Greenland/Ireland,22679946,Branta bernicla,W,,,22679946,Branta bernicla,False
+418,A674-B,Branta bernicla hrota,Svalbard/Denmark & UK,22679946,Branta bernicla,W,,,22679946,Branta bernicla,False
+419,A044-X,Branta canadensis,,,,,922679935,Branta canadensis,,,False
+420,A696,Bubulcus ibis ibis,,22697109,Bubulcus ibis,B,22697109,Bubulcus ibis,,,False
+421,A846-X,Buteo jamaicensis,,,,,,,,,False
+422,A751-X,Cairina moschata,,,,,,,,,False
+423,A672,Calidris alpina alpina,NE Europe & NW Siberia/W Europe & NW Africa,922693427,Calidris alpina,B,22693427,Calidris alpina alpina,,,False
+424,A466-B,Calidris alpina schinzii,Baltic/SW Europe & NW Africa,922693427,Calidris alpina,B,22693427,Calidris alpina schinzii,,,False
+425,A466-A,Calidris alpina schinzii,Britain & Ireland/SW Europe & NW Africa,922693427,Calidris alpina,B,22693427,Calidris alpina schinzii,,,False
+426,A670-B,Calidris maritima maritima,NE Canada & N Greenland (bre),22693420,Calidris maritima,W,22693420,Calidris maritima,22693420,Calidris maritima,False
+427,A670-A,Calidris maritima maritima,N Europe & W Siberia (bre),22693420,Calidris maritima,W,22693420,Calidris maritima,22693420,Calidris maritima,False
+428,A681,Carduelis cabaret,,22725044,Carduelis flammea,B,22720433,Carduelis cabaret,,,False
+429,A543,Carduelis hornemanni,,22725044,Carduelis flammea,B,22720424,Carduelis hornemanni,,,False
+430,A698,Casmerodius albus albus,"W, C & SE Europe/Black Sea & Mediterranean",22697043,Casmerodius albus,B,22697043,Casmerodius albus,22697043,Casmerodius albus,False
+431,A637,Certhia brachydactyla all others,,22711249,Certhia brachydactyla,B,22711249,Certhia brachydactyla all others,,,False
+432,A469,Certhia brachydactyla dorotheae,,22711249,Certhia brachydactyla,B,22711249,Certhia brachydactyla dorotheae,,,False
+433,A682-B,Charadrius alexandrinus alexandrinus,Black Sea & East Mediterranean/Eastern Sahel,22727487,Charadrius alexandrinus,B,22727487,Charadrius alexandrinus,22727487,Charadrius alexandrinus,False
+434,A682-A,Charadrius alexandrinus alexandrinus,West Europe & West Mediterranean/West Africa,22727487,Charadrius alexandrinus,B,22727487,Charadrius alexandrinus,22727487,Charadrius alexandrinus,False
+435,A726,Charadrius dubius curonicus,Europe & North-west Africa/West Africa,22693770,Charadrius dubius,B,22693770,Charadrius dubius,,,False
+436,A668,Charadrius leschenaultii columbinus,Turkey & SW Asia/E. Mediterranean & Red Sea,22693862,Charadrius leschenaultii,W,,,22693862,Charadrius leschenaultii,False
+437,A788-X,Chen caerulescens,,,,,,,,,False
+438,A849-X,Chen canagica,,,,,,,,,False
+439,A755-X,Chrysolophus amherstiae,,,,,,,,,False
+440,A557-X,Chrysolophus pictus,,,,,,,,,False
+441,A667-A,Ciconia ciconia ciconia,W Europe & North-west Africa/Sub-Saharan Africa,22697691,Ciconia ciconia,B,22697691,Ciconia ciconia,,,False
+442,A667-B,Ciconia ciconia ciconia,Central & Eastern Europe/Sub-Saharan Africa,22697691,Ciconia ciconia,B,22697691,Ciconia ciconia,,,False
+443,A752-X,Colinus virginianus,,,,,,,,,False
+444,A421,Columba palumbus azorica,,22690103,Columba palumbus,B,22690103,Columba palumbus azorica,,,False
+445,A687,Columba palumbus palumbus,,22690103,Columba palumbus,B,22690103,Columba palumbus palumbus,,,False
+446,A742,Corvus corone cornix,,22706016,Corvus corone,B,22706016,Corvus corone,,,False
+447,A743,Corvus corone corone,,22706016,Corvus corone,B,22706016,Corvus corone,,,False
+448,A747-X,Cygnus atratus,,,,,,,,,False
+449,A037,Cygnus columbianus bewickii,Western Siberia & NE Europe/North-west Europe,22679862,Cygnus columbianus,W,,,22679862,Cygnus columbianus,False
+450,A658,Dendrocopos major all others,,22681124,Dendrocopos major,B,22681124,Dendrocopos major all others,,,False
+451,A427,Dendrocopos major canariensis,,22681124,Dendrocopos major,B,22681124,Dendrocopos major canariensis,,,False
+452,A428,Dendrocopos major thanneri,,22681124,Dendrocopos major,B,22681124,Dendrocopos major thanneri,,,False
+453,A697,Egretta garzetta garzetta,,62774969,Egretta garzetta,B,62774969,Egretta garzetta,62774969,Egretta garzetta,False
+454,A512,Falco pelegrinoides,,45354964,Falco peregrinus,B,22696512,Falco pelegrinoides,,,False
+455,A710,Falco peregrinus all others,,45354964,Falco peregrinus,B,22696507,Falco peregrinus,,,False
+456,A709,Falco peregrinus brookei,,45354964,Falco peregrinus,B,22696507,Falco peregrinus,,,False
+457,A708,Falco peregrinus peregrinus,,45354964,Falco peregrinus,B,22696507,Falco peregrinus,,,False
+458,A754-X,Francolinus erckelii,,,,,,,,,False
+459,A753-X,Francolinus francolinus asiae,,,,,,,,,False
+460,A716,Francolinus francolinus francolinus,,22678719,Francolinus francolinus,B,22678719,Francolinus francolinus,,,False
+461,A657,Fringilla coelebs all others,,22720030,Fringilla coelebs,B,22720030,Fringilla coelebs all others,,,False
+462,A448,Fringilla coelebs ombriosa,,22720030,Fringilla coelebs,B,22720030,Fringilla coelebs ombriosa,,,False
+463,A643,Fringilla teydea polatzeki,,22720036,Fringilla teydea,B,22720036,Fringilla teydea,,,False
+464,A636,Fringilla teydea teydea,,22720036,Fringilla teydea,B,22720036,Fringilla teydea,,,False
+465,A723,Fulica atra atra,,22692913,Fulica atra,B,22692913,Fulica atra,22692913,Fulica atra,False
+466,A721,Gallinula chloropus chloropus,Europe & North Africa,62120190,Gallinula chloropus,B,62120190,Gallinula chloropus,,,False
+467,A502,Gavia adamsii,,,,,,,22697847,Gavia adamsii,False
+468,A689,Gavia arctica arctica,Northern Europe & Western Siberia/Europe,22697834,Gavia arctica,B,22697834,Gavia arctica,22697834,Gavia arctica,False
+469,A625-B,Glareola pratincola pratincola,Black Sea & E Mediterranean/Eastern Sahel zone,22694127,Glareola pratincola,B,22694127,Glareola pratincola,,,False
+470,A625-A,Glareola pratincola pratincola,Western Europe & NW Africa/West Africa,22694127,Glareola pratincola,B,22694127,Glareola pratincola,,,False
+471,A639-B,Grus grus grus,other populations,22692146,Grus grus,B,22692146,Grus grus,22692146,Grus grus,False
+472,A639-A,Grus grus grus,"Eastern Europe/Turkey, Middle East & NE Africa",22692146,Grus grus,B,22692146,Grus grus,22692146,Grus grus,False
+473,A724,Grus virgo,,,,,,,,,False
+474,A695,Hydrobates pelagicus melitensis,,22698477,Hydrobates pelagicus,B,22698477,Hydrobates pelagicus,,,False
+475,A694,Hydrobates pelagicus pelagicus,,22698477,Hydrobates pelagicus,B,22698477,Hydrobates pelagicus,,,False
+476,A617-B,Ixobrychus minutus minutus,"C & E Europe, Black Sea & E Mediterranean/Sub-Saharan Africa",22735766,Ixobrychus minutus,B,22735766,Ixobrychus minutus,,,False
+477,A617-A,Ixobrychus minutus minutus,"W Europe, NW Africa/Sub-Saharan Africa",22735766,Ixobrychus minutus,B,22735766,Ixobrychus minutus,,,False
+478,A463,Lagopus lagopus hibernicus,,22679460,Lagopus lagopus,B,22679460,Lagopus lagopus,,,False
+479,A461,Lagopus lagopus lagopus,,22679460,Lagopus lagopus,B,22679460,Lagopus lagopus,,,False
+480,A629,Lagopus lagopus rossica,,22679460,Lagopus lagopus,B,22679460,Lagopus lagopus,,,False
+481,A711,Lagopus lagopus scotica,,22679460,Lagopus lagopus,B,22679460,Lagopus lagopus,,,False
+482,A713,Lagopus muta helvetica,,22679464,Lagopus muta,B,22679464,Lagopus muta helvetica,,,False
+483,A714,Lagopus muta millaisi,,22679464,Lagopus muta,B,22679464,Lagopus muta all others,,,False
+484,A715,Lagopus muta muta,,22679464,Lagopus muta,B,22679464,Lagopus muta all others,,,False
+485,A712,Lagopus muta pyrenaica,,22679464,Lagopus muta,B,22679464,Lagopus muta pyrenaica,,,False
+486,A653,Lanius excubitor excubitor,,22730627,Lanius excubitor,B,22730627,Lanius excubitor,,,False
+487,A655,Lanius excubitor meridionalis,[including koenigi],22730627,Lanius excubitor,B,22730627,Lanius excubitor,,,False
+488,A640,Larus fuscus fuscus,"NE Europe/Black Sea, SW Asia & Eastern Africa",22694373,Larus fuscus,B,22694373,Larus fuscus,,,False
+489,A664,Larus fuscus graellsii,Western Europe/Mediterranean & West Africa,22694373,Larus fuscus,B,22694373,Larus fuscus,,,False
+490,A641,Larus fuscus intermedius,"S Scandinavia, Netherlands, Ebro Delta, Spain",22694373,Larus fuscus,B,22694373,Larus fuscus,,,False
+491,A762-X,Leiothrix lutea,,,,,,,,,False
+492,A616,Limosa limosa islandica,Iceland/Western Europe,22693150,Limosa limosa,B,22693150,Limosa limosa,22693150,Limosa limosa,False
+493,A614-A,Limosa limosa limosa,Western Europe/NW & West Africa,22693150,Limosa limosa,B,22693150,Limosa limosa,22693150,Limosa limosa,False
+494,A614-B,Limosa limosa limosa,Eastern Europe/Central & Eastern Africa,22693150,Limosa limosa,B,22693150,Limosa limosa,22693150,Limosa limosa,False
+495,A612,Luscinia svecica cyanecula,,22709707,Luscinia svecica,B,22709707,Luscinia svecica,,,False
+496,A611,Luscinia svecica namnetum,,22709707,Luscinia svecica,B,22709707,Luscinia svecica,,,False
+497,A609,Luscinia svecica svecica,,22709707,Luscinia svecica,B,22709707,Luscinia svecica,,,False
+498,A685-B,Melanitta fusca fusca,Western Siberia & Northern Europe/NW Europe,22724836,Melanitta fusca,B,22724836,Melanitta fusca,22724836,Melanitta fusca,False
+499,A685-A,Melanitta fusca fusca,Black Sea & Caspian,22724836,Melanitta fusca,B,22724836,Melanitta fusca,22724836,Melanitta fusca,False
+500,A706,Melanitta nigra nigra,W Siberia & N Europe/W Europe & NW Africa,22724879,Melanitta nigra,B,22724879,Melanitta nigra,22724879,Melanitta nigra,False
+501,A843,Melanitta perspicillata,,,,,,,,,False
+502,A460-X,Meleagris gallopavo,,,,,922679525,Meleagris gallopavo,,,False
+503,A654-B,Mergus merganser merganser,other populations,22680492,Mergus merganser,B,22680492,Mergus merganser,22680492,Mergus merganser,False
+504,A654-A,Mergus merganser merganser,North-east Europe/Black Sea,22680492,Mergus merganser,B,22680492,Mergus merganser,22680492,Mergus merganser,False
+505,A761-X,Myiopsitta monachus,,,,,,,,,False
+506,A768,Numenius arquata arquata,"Europe/Europe, North & West Africa",22693190,Numenius arquata,B,22693190,Numenius arquata,22693190,Numenius arquata,False
+507,A730,Numenius arquata orientalis,"Western Siberia/SW Asia, E & S Africa",22693190,Numenius arquata,B,22693190,Numenius arquata,22693190,Numenius arquata,False
+508,A757-X,Numida meleagris,,,,,,,,,False
+509,A610-A,Nycticorax nycticorax nycticorax,C & E Europe/Black Sea & E Mediterranean (bre),22697211,Nycticorax nycticorax,B,22697211,Nycticorax nycticorax,,,False
+510,A610-B,Nycticorax nycticorax nycticorax,"W Europe, NW Africa (bre)",22697211,Nycticorax nycticorax,B,22697211,Nycticorax nycticorax,,,False
+511,A750-X,Oxyura jamaicensis,,,,,,,,,False
+512,A847-X,Parabuteo unicinctus,,,,,,,,,False
+513,A763-X,Paradoxornis webbianus,,,,,,,,,False
+514,A656,Parus ater all others,,22735965,Parus ater,B,22735965,Parus ater all others,,,False
+515,A470,Parus ater cypriotes,,22735965,Parus ater,B,22735965,Parus ater cypriotes,,,False
+516,A771,Passer hispaniolensis all others,,22718179,Passer hispaniolensis,B,22718179,Passer hispaniolensis,,,False
+517,A744,Passer hispaniolensis italiae,,22718179,Passer hispaniolensis,B,22718179,Passer hispaniolensis,,,False
+518,A756-X,Pavo cristatus,,,,,,,,,False
+519,A644,Perdix perdix all others,,22678911,Perdix perdix,B,22678911,Perdix perdix all others,,,False
+520,A415,Perdix perdix hispaniensis,,22678911,Perdix perdix,B,22678911,Perdix perdix hispaniensis,,,False
+521,A414,Perdix perdix italica,,22678911,Perdix perdix,B,22678911,Perdix perdix italica,,,False
+522,A684,Phalacrocorax aristotelis aristotelis,,22696894,Phalacrocorax aristotelis,B,22696894,Phalacrocorax aristotelis aristotelis,,,False
+523,A392,Phalacrocorax aristotelis desmarestii,,22696894,Phalacrocorax aristotelis,B,22696894,Phalacrocorax aristotelis desmarestii,,,False
+524,A683,Phalacrocorax carbo carbo,North-west Europe,22696792,Phalacrocorax carbo,B,22696792,Phalacrocorax carbo,22696792,Phalacrocorax carbo,False
+525,A391,Phalacrocorax carbo sinensis,,22696792,Phalacrocorax carbo,B,22696792,Phalacrocorax carbo,22696792,Phalacrocorax carbo,False
+526,A607-A,Platalea leucorodia leucorodia,West Europe/West Mediterranean & West Africa,22697555,Platalea leucorodia,B,22697555,Platalea leucorodia,22697555,Platalea leucorodia,False
+527,A607-B,Platalea leucorodia leucorodia,Cent. & SE Europe/Mediterranean & Tropical Africa,22697555,Platalea leucorodia,B,22697555,Platalea leucorodia,22697555,Platalea leucorodia,False
+528,A700,Plegadis falcinellus falcinellus,Black Sea & Mediterranean/West Africa,22697422,Plegadis falcinellus,B,22697422,Plegadis falcinellus,,,False
+529,A642-B,Podiceps auritus auritus,North-east Europe (small-billed),22696606,Podiceps auritus,B,22696606,Podiceps auritus,22696606,Podiceps auritus,False
+530,A642-A,Podiceps auritus auritus,North-west Europe (large-billed),22696606,Podiceps auritus,B,22696606,Podiceps auritus,22696606,Podiceps auritus,False
+531,A691,Podiceps cristatus cristatus,,22696602,Podiceps cristatus,B,22696602,Podiceps cristatus,22696602,Podiceps cristatus,False
+532,A665-A,Podiceps grisegena grisegena,North-west Europe (win),22696599,Podiceps grisegena,B,22696599,Podiceps grisegena,,,False
+533,A665-B,Podiceps grisegena grisegena,Black Sea & Mediterranean (win),22696599,Podiceps grisegena,B,22696599,Podiceps grisegena,,,False
+534,A692,Podiceps nigricollis nigricollis,Europe/South & West Europe & North Africa,22696610,Podiceps nigricollis,B,22696610,Podiceps nigricollis,22696610,Podiceps nigricollis,False
+535,A759-X,Porphyrio porphyrio poliocephalus,,,,,,,,,False
+536,A722,Porphyrio porphyrio porphyrio,,22692792,Porphyrio porphyrio,B,22692792,Porphyrio porphyrio,,,False
+537,A719,Porzana parva parva,Western Eurasia/Africa,22692663,Porzana parva,B,22692663,Porzana parva,,,False
+538,A720,Porzana pusilla intermedia,Europe (bre),22692667,Porzana pusilla,B,22692667,Porzana pusilla,,,False
+539,A760-X,Psittacula krameri,,,,,,,,,False
+540,A504,Puffinus assimilis baroli,,45959182,Puffinus assimilis,B,45959182,Puffinus assimilis,,,False
+541,A011,Puffinus gravis,,,,,,,,,False
+542,A012,Puffinus griseus,,,,,,,,,False
+543,A718,Rallus aquaticus aquaticus,Europe & North Africa,22725141,Rallus aquaticus,B,22725141,Rallus aquaticus,,,False
+544,A172,Stercorarius pomarinus,,,,,,,,,False
+545,A631-A,Sterna albifrons albifrons,Europe north of Mediterranean (bre),22694656,Sterna albifrons,B,22694656,Sterna albifrons,,,False
+546,A631-B,Sterna albifrons albifrons,Black Sea & East Mediterranean (bre),22694656,Sterna albifrons,B,22694656,Sterna albifrons,,,False
+547,A602,Sterna bengalensis,,,,,,,,,False
+548,A732,Sterna caspia caspia,,22694524,Sterna caspia,B,22694524,Sterna caspia,,,False
+549,A733,Sterna dougallii dougallii,Europe (bre),22694601,Sterna dougallii,B,22694601,Sterna dougallii,,,False
+550,A564,Sterna fuscata,,,,,22694740,Sterna fuscata,,,False
+551,A731-B,Sterna nilotica nilotica,Black Sea & East Mediterranean/Eastern Africa,62026481,Sterna nilotica,B,62026481,Sterna nilotica,,,False
+552,A731-A,Sterna nilotica nilotica,Western Europe/West Africa,62026481,Sterna nilotica,B,62026481,Sterna nilotica,,,False
+553,A766-X,Streptopelia senegalensis,,,,,,,,,False
+554,A770,Sylvia cantillans all others,,22716967,Sylvia cantillans,B,22716967,Sylvia cantillans,,,False
+555,A648,Sylvia cantillans cantillans,,22716967,Sylvia cantillans,B,22716967,Sylvia cantillans,,,False
+556,A647,Sylvia cantillans moltonii,,22716967,Sylvia cantillans,B,22716967,Sylvia cantillans,,,False
+557,A769,Sylvia undata all others,,22716984,Sylvia undata,B,22716984,Sylvia undata,,,False
+558,A646,Sylvia undata dartfordiensis,,22716984,Sylvia undata,B,22716984,Sylvia undata,,,False
+559,A645,Sylvia undata undata,,22716984,Sylvia undata,B,22716984,Sylvia undata,,,False
+560,A558-X,Syrmaticus reevesii,,,,,,,,,False
+561,A690,Tachybaptus ruficollis ruficollis,Europe & North-west Africa,22696545,Tachybaptus ruficollis,B,22696545,Tachybaptus ruficollis,22696545,Tachybaptus ruficollis,False
+562,A410,Tetrao tetrix britannicus,,22679480,Tetrao tetrix,B,22679480,Tetrao tetrix britannicus,,,False
+563,A409,Tetrao tetrix tetrix,,22679480,Tetrao tetrix,B,22679480,Tetrao tetrix tetrix,,,False
+564,A659,Tetrao urogallus all others,,22679487,Tetrao urogallus,B,22679487,Tetrao urogallus,,,False
+565,A661,Tetrao urogallus aquitanicus,,22679487,Tetrao urogallus,B,22679487,Tetrao urogallus,,,False
+566,A513,Tetrao urogallus cantabricus,,22679487,Tetrao urogallus,B,22679487,Tetrao urogallus,,,False
+567,A725-B,Tetrax tetrax tetrax,Continental (migratory),22691896,Tetrax tetrax,B,22691896,Tetrax tetrax,,,False
+568,A725-A,Tetrax tetrax tetrax,Mediterranean (sedentary),22691896,Tetrax tetrax,B,22691896,Tetrax tetrax,,,False
+569,A758-X,Threskiornis aethiopicus,,,,,,,,,False
+570,A676,Troglodytes troglodytes all others,,22711483,Troglodytes troglodytes,B,22711483,Troglodytes troglodytes all others,,,False
+571,A434,Troglodytes troglodytes fridariensis,,22711483,Troglodytes troglodytes,B,22711483,Troglodytes troglodytes fridariensis,,,False
+572,A678,Uria aalge aalge,,22694841,Uria aalge,B,22694841,Uria aalge all others,,,False
+573,A662,Uria aalge albionis,,22694841,Uria aalge,B,22694841,Uria aalge all others,,,False
+574,A419,Uria aalge ibericus,,22694841,Uria aalge,B,22694841,Uria aalge ibericus,,,False
+575,A446,Emberiza cineracea,,22720912,Emberiza cineracea,B,22720912,Emberiza cineracea,,,False
+576,A444,Sitta krueperi,,22711184,Sitta krueperi,B,22711184,Sitta krueperi,,,False
+577,A440,Sylvia rueppelli,,22716954,Sylvia rueppelli,B,22716954,Sylvia rueppelli,,,False
+589,A392,Phalacrocorax aristotelis desmarestii,,111114,Phalacrocorax aristotelis desmarestii,B,,,,,True
+588,A394,Anser albifrons albifrons,,111115,Anser albifrons albifrons,W,,,,,True
+587,A395,Anser albifrons flavirostris,Greenland/Ireland & UK,111116,Anser albifrons flavirostris,W,,,,,True
+586,A400,Accipiter gentilis arrigonii,,111117,Accipiter gentilis arrigonii,B,,,,,True
+578,A401,Accipiter nisus granti,,111118,Accipiter nisus granti,B,,,,,True
+585,A711,Lagopus lagopus scotica,,111119,Lagopus lagopus scoticus,B,,,,,True
+592,A461,Lagopus lagopus lagopus,,111121,Lagopus lagopus lagopus,B,,,,,True
+583,A463,Lagopus lagopus hibernicus,,111120,Lagopus lagopus hibernicus,B,,,,,True
+582,A712,Lagopus muta pyrenaica,,111122,Lagopus mutus pyrenaicus,B,,,,,True
+581,A713,Lagopus muta helvetica,,111123,Lagopus mutus helveticus,B,,,,,True
+580,A409,Tetrao tetrix tetrix,,111124,Tetrao tetrix tetrix,B,,,,,True
+579,A410,Tetrao tetrix britannicus,,111125,Tetrao tetrix britannicus,B,,,,,True
+1,A402,Accipiter brevipes,,22695499,Accipiter brevipes,B,22695499,Accipiter brevipes,,,False
+2,A680,Acrocephalus agricola,,22714714,Acrocephalus agricola,B,22714714,Acrocephalus agricola,,,False
+3,A298,Acrocephalus arundinaceus,,22714745,Acrocephalus arundinaceus,B,22714745,Acrocephalus arundinaceus,,,False
+4,A679,Acrocephalus dumetorum,,22714736,Acrocephalus dumetorum,B,22714736,Acrocephalus dumetorum,,,False
+5,A293,Acrocephalus melanopogon,,22714693,Acrocephalus melanopogon,B,22714693,Acrocephalus melanopogon,,,False
+6,A294,Acrocephalus paludicola,,22714696,Acrocephalus paludicola,B,22714696,Acrocephalus paludicola,,,False
+7,A296,Acrocephalus palustris,,22714741,Acrocephalus palustris,B,22714741,Acrocephalus palustris,,,False
+8,A295,Acrocephalus schoenobaenus,,22714700,Acrocephalus schoenobaenus,B,22714700,Acrocephalus schoenobaenus,,,False
+9,A297,Acrocephalus scirpaceus,,22714722,Acrocephalus scirpaceus,B,22714722,Acrocephalus scirpaceus,,,False
+10,A168,Actitis hypoleucos,,22693264,Actitis hypoleucos,B,22693264,Actitis hypoleucos,,,False
+11,A324,Aegithalos caudatus,,22712004,Aegithalos caudatus,B,22712004,Aegithalos caudatus,,,False
+12,A223,Aegolius funereus,,22689362,Aegolius funereus,B,22689362,Aegolius funereus,,,False
+13,A079,Aegypius monachus,,22695231,Aegypius monachus,B,22695231,Aegypius monachus,,,False
+14,A247,Alauda arvensis,,22717415,Alauda arvensis,B,22717415,Alauda arvensis,,,False
+15,A200,Alca torda,,22694852,Alca torda,B,22694852,Alca torda,,,False
+16,A229,Alcedo atthis,,22683027,Alcedo atthis,B,22683027,Alcedo atthis,,,False
+17,A111,Alectoris barbara,,22678707,Alectoris barbara,B,22678707,Alectoris barbara,,,False
+18,A411,Alectoris chukar,,22678691,Alectoris chukar,B,22678691,Alectoris chukar,,,False
+19,A411-X,Alectoris chukar,,,,,,,,,False
+20,A110,Alectoris rufa,,22678711,Alectoris rufa,B,22678711,Alectoris rufa,,,False
+21,A054,Anas acuta,,22680301,Anas acuta,B,22680301,Anas acuta,22680301,Anas acuta,False
+22,A056,Anas clypeata,,22680247,Anas clypeata,B,22680247,Anas clypeata,22680247,Anas clypeata,False
+23,A050,Anas penelope,,22680157,Anas penelope,B,22680157,Anas penelope,22680157,Anas penelope,False
+24,A055,Anas querquedula,Western Siberia & Europe/West Africa,22680313,Anas querquedula,B,22680313,Anas querquedula,,,False
+25,A043,Anser anser,,22679889,Anser anser,B,22679889,Anser anser,22679889,Anser anser,False
+26,A043-X,Anser anser,,,,,,,,,False
+27,A040,Anser brachyrhynchus,,22679872,Anser brachyrhynchus,W,,,22679872,Anser brachyrhynchus,False
+28,A042,Anser erythropus,,22679886,Anser erythropus,B,22679886,Anser erythropus,22679886,Anser erythropus,False
+29,A432,Anthus berthelotii,,22718508,Anthus berthelotii,B,22718508,Anthus berthelotii,,,False
+30,A255,Anthus campestris,,22718501,Anthus campestris,B,22718501,Anthus campestris,,,False
+31,A258,Anthus cervinus,,22718560,Anthus cervinus,B,22718560,Anthus cervinus,,,False
+32,A666,Anthus petrosus,,22718567,Anthus petrosus,B,22718567,Anthus petrosus,,,False
+33,A257,Anthus pratensis,,22718556,Anthus pratensis,B,22718556,Anthus pratensis,,,False
+34,A259,Anthus spinoletta,,22718571,Anthus spinoletta,B,22718571,Anthus spinoletta,,,False
+35,A256,Anthus trivialis,,22718546,Anthus trivialis,B,22718546,Anthus trivialis,,,False
+36,A677,Apus affinis,,22686856,Apus affinis,B,22686856,Apus affinis,,,False
+37,A226,Apus apus,,22686800,Apus apus,B,22686800,Apus apus,,,False
+38,A424,Apus caffer,,22686882,Apus caffer,B,22686882,Apus caffer,,,False
+39,A227,Apus pallidus,,22686815,Apus pallidus,B,22686815,Apus pallidus,,,False
+40,A425,Apus unicolor,,22686806,Apus unicolor,B,22686806,Apus unicolor,,,False
+41,A405,Aquila adalberti,,22696042,Aquila adalberti,B,22696042,Aquila adalberti,22696042,Aquila adalberti,False
+42,A091,Aquila chrysaetos,,22696060,Aquila chrysaetos,B,22696060,Aquila chrysaetos,,,False
+43,A090,Aquila clanga,,22696027,Aquila clanga,B,22696027,Aquila clanga,,,False
+44,A707,Aquila fasciatus,,22696076,Aquila fasciatus,B,22696076,Aquila fasciatus,,,False
+45,A404,Aquila heliaca,,22696048,Aquila heliaca,B,22696048,Aquila heliaca,,,False
+46,A089,Aquila pomarina,,22696022,Aquila pomarina,B,22696022,Aquila pomarina,,,False
+47,A169,Arenaria interpres,,22693336,Arenaria interpres,B,22693336,Arenaria interpres,22693336,Arenaria interpres,False
+48,A222,Asio flammeus,,22689531,Asio flammeus,B,22689531,Asio flammeus,,,False
+49,A221,Asio otus,,22689507,Asio otus,B,22689507,Asio otus,,,False
+50,A218,Athene noctua,,22689328,Athene noctua,B,22689328,Athene noctua,,,False
+51,A059,Aythya ferina,,22680358,Aythya ferina,B,22680358,Aythya ferina,22680358,Aythya ferina,False
+52,A061,Aythya fuligula,,22680391,Aythya fuligula,B,22680391,Aythya fuligula,22680391,Aythya fuligula,False
+53,A062,Aythya marila,,22680398,Aythya marila,B,22680398,Aythya marila,22680398,Aythya marila,False
+54,A060-A,Aythya nyroca,West Mediterranean/North & West Africa,22680373,Aythya nyroca,B,22680373,Aythya nyroca,22680373,Aythya nyroca,False
+55,A060-B,Aythya nyroca,Eastern Europe/E Mediterranean & Sahelian Africa,22680373,Aythya nyroca,B,22680373,Aythya nyroca,22680373,Aythya nyroca,False
+56,A263,Bombycilla garrulus,,22708146,Bombycilla garrulus,B,22708146,Bombycilla garrulus,,,False
+57,A104,Bonasa bonasia,,22679494,Bonasa bonasia,B,22679494,Bonasa bonasia,,,False
+58,A045-A,Branta leucopsis,East Greenland/Scotland & Ireland,22679943,Branta leucopsis,B,22679943,Branta leucopsis,22679943,Branta leucopsis,False
+59,A045-B,Branta leucopsis,Svalbard/South-west Scotland,22679943,Branta leucopsis,B,22679943,Branta leucopsis,22679943,Branta leucopsis,False
+60,A045-C,Branta leucopsis,Russia/Germany & Netherlands,22679943,Branta leucopsis,B,22679943,Branta leucopsis,22679943,Branta leucopsis,False
+61,A045-X,Branta leucopsis,,,,,,,,,False
+62,A396,Branta ruficollis,Northern Siberia/Black Sea & Caspian,22679954,Branta ruficollis,W,,,22679954,Branta ruficollis,False
+63,A215,Bubo bubo,,22688927,Bubo bubo,B,22688927,Bubo bubo,,,False
+64,A215-X,Bubo bubo,,,,,,,,,False
+65,A736,Bubo scandiaca,,22689055,Bubo scandiaca,B,22689055,Bubo scandiaca,,,False
+66,A452,Bucanetes githagineus,,22720513,Bucanetes githagineus,B,22720513,Bucanetes githagineus,,,False
+67,A067,Bucephala clangula,,22680455,Bucephala clangula,B,22680455,Bucephala clangula,22680455,Bucephala clangula,False
+68,A387,Bulweria bulwerii,,22698132,Bulweria bulwerii,B,22698132,Bulweria bulwerii,,,False
+69,A133,Burhinus oedicnemus,,45111439,Burhinus oedicnemus,B,45111439,Burhinus oedicnemus,,,False
+70,A087,Buteo buteo,,61695117,Buteo buteo,B,61695117,Buteo buteo,,,False
+71,A088,Buteo lagopus,,22695973,Buteo lagopus,B,22695973,Buteo lagopus,,,False
+72,A403,Buteo rufinus,,22736562,Buteo rufinus,B,22736562,Buteo rufinus,,,False
+73,A243,Calandrella brachydactyla,,22717304,Calandrella brachydactyla,B,22717304,Calandrella brachydactyla,,,False
+74,A431,Calandrella rufescens,,22717329,Calandrella rufescens,B,22717329,Calandrella rufescens,,,False
+75,A374,Calcarius lapponicus,,22721033,Calcarius lapponicus,B,22721033,Calcarius lapponicus,,,False
+76,A144,Calidris alba,,22693369,Calidris alba,W,,,22693369,Calidris alba,False
+77,A149,Calidris alpina,all non-breeding populations,922693427,Calidris alpina,B,,,922693427,Calidris alpina,False
+78,A143,Calidris canutus,,22693363,Calidris canutus,W,,,22693363,Calidris canutus,False
+79,A147,Calidris ferruginea,,22693431,Calidris ferruginea,W,,,22693431,Calidris ferruginea,False
+80,A145,Calidris minuta,,22693379,Calidris minuta,W,22693379,Calidris minuta,22693379,Calidris minuta,False
+81,A146,Calidris temminckii,,22693388,Calidris temminckii,B,22693388,Calidris temminckii,,,False
+82,A010,Calonectris diomedea,,45061132,Calonectris diomedea,B,22698167,Calonectris diomedea,,,False
+83,A010,Calonectris diomedea,,22732244,Calonectris borealis,B,22698167,Calonectris diomedea,,,False
+84,A224,Caprimulgus europaeus,,22689887,Caprimulgus europaeus,B,22689887,Caprimulgus europaeus,,,False
+85,A225,Caprimulgus ruficollis,,22689875,Caprimulgus ruficollis,B,22689875,Caprimulgus ruficollis,,,False
+86,A366,Carduelis cannabina,,22720441,Carduelis cannabina,B,22720441,Carduelis cannabina,,,False
+87,A364,Carduelis carduelis,,22720419,Carduelis carduelis,B,22720419,Carduelis carduelis,,,False
+88,A745,Carduelis chloris,,22720330,Carduelis chloris,B,22720330,Carduelis chloris,,,False
+89,A623,Carduelis citrinella,,22720062,Carduelis citrinella,B,22720062,Carduelis citrinella,,,False
+90,A669,Carduelis corsicana,,22729538,Carduelis corsicana,B,22729538,Carduelis corsicana,,,False
+91,A368,Carduelis flammea,,22725044,Carduelis flammea,B,22731300,Carduelis flammea,,,False
+92,A367,Carduelis flavirostris,,22720438,Carduelis flavirostris,B,22720438,Carduelis flavirostris,,,False
+93,A365,Carduelis spinus,,22720354,Carduelis spinus,B,22720354,Carduelis spinus,,,False
+94,A371,Carpodacus erythrinus,,22720556,Carpodacus erythrinus,B,22720556,Carpodacus erythrinus,,,False
+95,A175,Catharacta skua,,22694160,Catharacta skua,B,22694160,Catharacta skua,,,False
+96,A202,Cepphus grylle,,22694861,Cepphus grylle,B,22694861,Cepphus grylle,,,False
+97,A334,Certhia familiaris,,22735060,Certhia familiaris,B,22735060,Certhia familiaris,,,False
+98,A288,Cettia cetti,,22714445,Cettia cetti,B,22714445,Cettia cetti,,,False
+99,A137,Charadrius hiaticula,,22693759,Charadrius hiaticula,B,22693759,Charadrius hiaticula,22693759,Charadrius hiaticula,False
+100,A430,Chersophilus duponti,,22717380,Chersophilus duponti,B,22717380,Chersophilus duponti,,,False
+101,A416,Chlamydotis undulata,,22728245,Chlamydotis undulata,B,22728245,Chlamydotis undulata,,,False
+102,A734,Chlidonias hybrida,,22694764,Chlidonias hybrida,B,22694764,Chlidonias hybrida,,,False
+103,A198,Chlidonias leucopterus,,22694782,Chlidonias leucopterus,B,22694782,Chlidonias leucopterus,,,False
+104,A197,Chlidonias niger,,22694787,Chlidonias niger,B,22694787,Chlidonias niger,,,False
+105,A030-A,Ciconia nigra,South-west Europe/West Africa,22697669,Ciconia nigra,B,22697669,Ciconia nigra,,,False
+106,A030-B,Ciconia nigra,Central & Eastern Europe/Sub-Saharan Africa,22697669,Ciconia nigra,B,22697669,Ciconia nigra,,,False
+107,A264,Cinclus cinclus,,22708156,Cinclus cinclus,B,22708156,Cinclus cinclus,,,False
+108,A080,Circaetus gallicus,,22734216,Circaetus gallicus,B,22734216,Circaetus gallicus,,,False
+109,A081,Circus aeruginosus,,22695344,Circus aeruginosus,B,22695344,Circus aeruginosus,,,False
+110,A082,Circus cyaneus,,22727733,Circus cyaneus,B,22727733,Circus cyaneus,,,False
+111,A083,Circus macrourus,,22695396,Circus macrourus,B,22695396,Circus macrourus,,,False
+112,A084,Circus pygargus,,22695405,Circus pygargus,B,22695405,Circus pygargus,,,False
+113,A289,Cisticola juncidis,,22713491,Cisticola juncidis,B,22713491,Cisticola juncidis,,,False
+114,A211,Clamator glandarius,,22683819,Clamator glandarius,B,22683819,Clamator glandarius,,,False
+115,A064,Clangula hyemalis,Western Siberia/North Europe,22680427,Clangula hyemalis,W,22680427,Clangula hyemalis,22680427,Clangula hyemalis,False
+116,A373,Coccothraustes coccothraustes,,22720681,Coccothraustes coccothraustes,B,22720681,Coccothraustes coccothraustes,,,False
+117,A422,Columba bollii,,22690117,Columba bollii,B,22690117,Columba bollii,,,False
+118,A423,Columba junoniae,,22690122,Columba junoniae,B,22690122,Columba junoniae,,,False
+119,A206,Columba livia,livia and domestica,22690066,Columba livia,B,22690066,Columba livia,,,False
+120,A207,Columba oenas,,22690088,Columba oenas,B,22690088,Columba oenas,,,False
+121,A455,Columba trocaz,,22690112,Columba trocaz,B,22690112,Columba trocaz,,,False
+122,A231,Coracias garrulus,,22682860,Coracias garrulus,B,22682860,Coracias garrulus,,,False
+123,A350,Corvus corax,,22706068,Corvus corax,B,22706068,Corvus corax,,,False
+124,A348,Corvus frugilegus,,22705983,Corvus frugilegus,B,22705983,Corvus frugilegus,,,False
+125,A347,Corvus monedula,,22705929,Corvus monedula,B,22705929,Corvus monedula,,,False
+126,A113,Coturnix coturnix,,22678944,Coturnix coturnix,B,22678944,Coturnix coturnix,,,False
+127,A122,Crex crex,Europe & Western Asia/Sub-Saharan Africa,22692543,Crex crex,B,22692543,Crex crex,,,False
+128,A212,Cuculus canorus,,22683873,Cuculus canorus,B,22683873,Cuculus canorus,,,False
+129,A134,Cursorius cursor,,22735845,Cursorius cursor,B,22735845,Cursorius cursor,,,False
+130,A454,Cyanopica cyanus,,22705827,Cyanopica cyanus,B,22705827,Cyanopica cyanus,,,False
+131,A038-A,Cygnus cygnus,North-west Mainland Europe,22679856,Cygnus cygnus,B,22679856,Cygnus cygnus,22679856,Cygnus cygnus,False
+132,A038-B,Cygnus cygnus,Iceland/UK & Ireland,22679856,Cygnus cygnus,B,22679856,Cygnus cygnus,22679856,Cygnus cygnus,False
+133,A038-C,Cygnus cygnus,N Europe & W Siberia/Black Sea & E Mediterranean,22679856,Cygnus cygnus,B,22679856,Cygnus cygnus,22679856,Cygnus cygnus,False
+134,A036,Cygnus olor,,22679839,Cygnus olor,B,22679839,Cygnus olor,22679839,Cygnus olor,False
+135,A738,Delichon urbicum,,22712477,Delichon urbicum,B,22712477,Delichon urbicum,,,False
+136,A239,Dendrocopos leucotos,,22727124,Dendrocopos leucotos,B,22727124,Dendrocopos leucotos,,,False
+137,A238,Dendrocopos medius,,22681114,Dendrocopos medius,B,22681114,Dendrocopos medius,,,False
+138,A240,Dendrocopos minor,,22681076,Dendrocopos minor,B,22681076,Dendrocopos minor,,,False
+139,A429,Dendrocopos syriacus,,22681127,Dendrocopos syriacus,B,22681127,Dendrocopos syriacus,,,False
+140,A236,Dryocopus martius,,22681382,Dryocopus martius,B,22681382,Dryocopus martius,,,False
+141,A399,Elanus caeruleus,,22695028,Elanus caeruleus,B,22695028,Elanus caeruleus,,,False
+142,A540,Emberiza aureola,,22720966,Emberiza aureola,B,22720966,Emberiza aureola,,,False
+143,A447,Emberiza caesia,,22720920,Emberiza caesia,B,22720920,Emberiza caesia,,,False
+144,A378,Emberiza cia,,22720894,Emberiza cia,B,22720894,Emberiza cia,,,False
+145,A377,Emberiza cirlus,,22720888,Emberiza cirlus,B,22720888,Emberiza cirlus,,,False
+146,A376,Emberiza citrinella,,22720878,Emberiza citrinella,B,22720878,Emberiza citrinella,,,False
+147,A379,Emberiza hortulana,,22720916,Emberiza hortulana,B,22720916,Emberiza hortulana,,,False
+148,A382,Emberiza melanocephala,,22720990,Emberiza melanocephala,B,22720990,Emberiza melanocephala,,,False
+149,A380,Emberiza pusilla,,22720954,Emberiza pusilla,B,22720954,Emberiza pusilla,,,False
+150,A542,Emberiza rustica,,22720960,Emberiza rustica,B,22720960,Emberiza rustica,,,False
+151,A381,Emberiza schoeniclus,,22721012,Emberiza schoeniclus,B,22721012,Emberiza schoeniclus,,,False
+152,A248,Eremophila alpestris,,22717434,Eremophila alpestris,B,22717434,Eremophila alpestris,,,False
+153,A269,Erithacus rubecula,,22709675,Erithacus rubecula,B,22709675,Erithacus rubecula,,,False
+154,A739,Erythropygia galactotes,,22709936,Erythropygia galactotes,B,22709936,Erythropygia galactotes,,,False
+155,A727,Eudromias morinellus,Europe/North-west Africa,22693906,Eudromias morinellus,B,22693906,Eudromias morinellus,,,False
+156,A101,Falco biarmicus,,22696487,Falco biarmicus,B,22696487,Falco biarmicus,,,False
+157,A511,Falco cherrug,,22696495,Falco cherrug,B,22696495,Falco cherrug,,,False
+158,A098,Falco columbarius,,22696453,Falco columbarius,B,22696453,Falco columbarius,,,False
+159,A100,Falco eleonorae,,22696442,Falco eleonorae,B,22696442,Falco eleonorae,,,False
+160,A095,Falco naumanni,,22696357,Falco naumanni,B,22696357,Falco naumanni,,,False
+161,A102,Falco rusticolus,,22696500,Falco rusticolus,B,22696500,Falco rusticolus,,,False
+162,A099,Falco subbuteo,,22696460,Falco subbuteo,B,22696460,Falco subbuteo,,,False
+163,A096,Falco tinnunculus,,22696362,Falco tinnunculus,B,22696362,Falco tinnunculus,,,False
+164,A097,Falco vespertinus,,22696432,Falco vespertinus,B,22696432,Falco vespertinus,,,False
+165,A321,Ficedula albicollis,,22709315,Ficedula albicollis,B,22709315,Ficedula albicollis,,,False
+166,A322,Ficedula hypoleuca,,22709308,Ficedula hypoleuca,B,22709308,Ficedula hypoleuca,,,False
+167,A320,Ficedula parva,,22735909,Ficedula parva,B,22735909,Ficedula parva,,,False
+168,A442,Ficedula semitorquata,,22709319,Ficedula semitorquata,B,22709319,Ficedula semitorquata,,,False
+169,A204,Fratercula arctica,,22694927,Fratercula arctica,B,22694927,Fratercula arctica,,,False
+170,A360,Fringilla montifringilla,,22720041,Fringilla montifringilla,B,22720041,Fringilla montifringilla,,,False
+171,A126,Fulica cristata,Spain & Morocco,22692907,Fulica cristata,B,22692907,Fulica cristata,22692907,Fulica cristata,False
+172,A009,Fulmarus glacialis,,22697866,Fulmarus glacialis,B,22697866,Fulmarus glacialis,,,False
+173,A244,Galerida cristata,,22717383,Galerida cristata,B,22717383,Galerida cristata,,,False
+174,A245,Galerida theklae,,22717387,Galerida theklae,B,22717387,Galerida theklae,,,False
+175,A153,Gallinago gallinago,,22693097,Gallinago gallinago,B,22693097,Gallinago gallinago,,,False
+176,A154-A,Gallinago media,Scandinavia/probably West Africa,22693093,Gallinago media,B,22693093,Gallinago media,,,False
+177,A154-B,Gallinago media,Western Siberia & NE Europe/South-east Africa,22693093,Gallinago media,B,22693093,Gallinago media,,,False
+178,A342,Garrulus glandarius,,22705764,Garrulus glandarius,B,22705764,Garrulus glandarius,,,False
+179,A003,Gavia immer,Europe (win),22697842,Gavia immer,W,,,22697842,Gavia immer,False
+180,A001-A,Gavia stellata,North-west Europe (win),22697829,Gavia stellata,B,22697829,Gavia stellata,22697829,Gavia stellata,False
+181,A001-B,Gavia stellata,"Caspian, Black Sea & East Mediterranean (win)",22697829,Gavia stellata,B,22697829,Gavia stellata,22697829,Gavia stellata,False
+182,A515,Glareola nordmanni,SE Europe & Western Asia/Southern Africa,22694136,Glareola nordmanni,B,22694136,Glareola nordmanni,,,False
+183,A217,Glaucidium passerinum,,22689194,Glaucidium passerinum,B,22689194,Glaucidium passerinum,,,False
+184,A076,Gypaetus barbatus,,22695174,Gypaetus barbatus,B,22695174,Gypaetus barbatus,,,False
+185,A078,Gyps fulvus,,22695219,Gyps fulvus,B,22695219,Gyps fulvus,,,False
+186,A130,Haematopus ostralegus,,22733462,Haematopus ostralegus,B,22733462,Haematopus ostralegus,22733462,Haematopus ostralegus,False
+187,A075,Haliaeetus albicilla,,22695137,Haliaeetus albicilla,B,22695137,Haliaeetus albicilla,22695137,Haliaeetus albicilla,False
+188,A092,Hieraaetus pennatus,,22696092,Hieraaetus pennatus,B,22696092,Hieraaetus pennatus,,,False
+189,A131,Himantopus himantopus,,22727969,Himantopus himantopus,B,22727969,Himantopus himantopus,22727969,Himantopus himantopus,False
+190,A741,Hippolais caligata,,22714891,Hippolais caligata,B,22714891,Hippolais caligata,,,False
+191,A299,Hippolais icterina,,22714916,Hippolais icterina,B,22714916,Hippolais icterina,,,False
+192,A439,Hippolais olivetorum,,22714908,Hippolais olivetorum,B,22714908,Hippolais olivetorum,,,False
+193,A740,Hippolais pallida,,22730647,Hippolais pallida,B,22734747,Hippolais pallida,,,False
+194,A300,Hippolais polyglotta,,22714912,Hippolais polyglotta,B,22714912,Hippolais polyglotta,,,False
+195,A252,Hirundo daurica,,22735920,Hirundo daurica,B,22735920,Hirundo daurica,,,False
+196,A737,Hirundo rupestris,,22712216,Hirundo rupestris,B,22712216,Hirundo rupestris,,,False
+197,A251,Hirundo rustica,,22712252,Hirundo rustica,B,22712252,Hirundo rustica,,,False
+198,A233,Jynx torquilla,,22680683,Jynx torquilla,B,22680683,Jynx torquilla,,,False
+199,A338,Lanius collurio,,22705001,Lanius collurio,B,22705001,Lanius collurio,,,False
+200,A339,Lanius minor,,22705038,Lanius minor,B,22705038,Lanius minor,,,False
+201,A433,Lanius nubicus,,22705099,Lanius nubicus,B,22705099,Lanius nubicus,,,False
+202,A341,Lanius senator,,22705095,Lanius senator,B,22705095,Lanius senator,,,False
+203,A184,Larus argentatus,,62030608,Larus argentatus,B,62030608,Larus argentatus,,,False
+204,A181,Larus audouinii,Mediterranean/N & W coasts of Africa,22694313,Larus audouinii,B,22694313,Larus audouinii,,,False
+205,A459,Larus cachinnans,,22735929,Larus cachinnans,B,22735929,Larus cachinnans,,,False
+206,A182,Larus canus,,22694308,Larus canus,B,22694308,Larus canus,,,False
+207,A180,Larus genei,,22694428,Larus genei,B,22694428,Larus genei,,,False
+208,A187,Larus marinus,,22694324,Larus marinus,B,22694324,Larus marinus,,,False
+209,A176,Larus melanocephalus,,22694443,Larus melanocephalus,B,22694443,Larus melanocephalus,,,False
+210,A604,Larus michahellis,,62030970,Larus michahellis,B,62030970,Larus michahellis,,,False
+211,A177,Larus minutus,,22694469,Larus minutus,B,22694469,Larus minutus,,,False
+212,A179,Larus ridibundus,,22694420,Larus ridibundus,B,22694420,Larus ridibundus,,,False
+213,A150,Limicola falcinellus,Northern Europe/SW Asia & Africa,22693464,Limicola falcinellus,B,22693464,Limicola falcinellus,,,False
+214,A157,Limosa lapponica,,22693158,Limosa lapponica,B,22693158,Limosa lapponica,22693158,Limosa lapponica,False
+215,A291,Locustella fluviatilis,,22714679,Locustella fluviatilis,B,22714679,Locustella fluviatilis,,,False
+216,A292,Locustella luscinioides,,22714684,Locustella luscinioides,B,22714684,Locustella luscinioides,,,False
+217,A290,Locustella naevia,,22714657,Locustella naevia,B,22714657,Locustella naevia,,,False
+218,A369,Loxia curvirostra,,22720646,Loxia curvirostra,B,22720646,Loxia curvirostra,,,False
+219,A544,Loxia leucoptera,,22728944,Loxia leucoptera,B,22728944,Loxia leucoptera,,,False
+220,A370,Loxia pytyopsittacus,,22720638,Loxia pytyopsittacus,B,22720638,Loxia pytyopsittacus,,,False
+221,A451,Loxia scotica,,22720641,Loxia scotica,B,22720641,Loxia scotica,,,False
+222,A246,Lullula arborea,,22717411,Lullula arborea,B,22717411,Lullula arborea,,,False
+223,A270,Luscinia luscinia,,22709691,Luscinia luscinia,B,22709691,Luscinia luscinia,,,False
+224,A271,Luscinia megarhynchos,,22709696,Luscinia megarhynchos,B,22709696,Luscinia megarhynchos,,,False
+225,A152,Lymnocryptes minimus,Northern Europe/S & W Europe & West Africa,22693133,Lymnocryptes minimus,B,22693133,Lymnocryptes minimus,,,False
+226,A057-A,Marmaronetta angustirostris,West Mediterranean/West Medit. & West Africa,22680339,Marmaronetta angustirostris,B,22680339,Marmaronetta angustirostris,22680339,Marmaronetta angustirostris,False
+227,A242,Melanocorypha calandra,,22717285,Melanocorypha calandra,B,22717285,Melanocorypha calandra,,,False
+228,A767-A,Mergellus albellus,North-east Europe/Black Sea & East Mediterranean,22680465,Mergellus albellus,B,22680465,Mergellus albellus,22680465,Mergellus albellus,False
+229,A767-B,Mergellus albellus,North-west & Central Europe (win),22680465,Mergellus albellus,B,22680465,Mergellus albellus,22680465,Mergellus albellus,False
+230,A069,Mergus serrator,,22680485,Mergus serrator,B,22680485,Mergus serrator,22680485,Mergus serrator,False
+231,A230,Merops apiaster,,22683756,Merops apiaster,B,22683756,Merops apiaster,,,False
+232,A746,Miliaria calandra,,22721020,Miliaria calandra,B,22721020,Miliaria calandra,,,False
+233,A073,Milvus migrans,,22734972,Milvus migrans,B,22734972,Milvus migrans,,,False
+234,A074,Milvus milvus,,22695072,Milvus milvus,B,22695072,Milvus milvus,22695072,Milvus milvus,False
+235,A280,Monticola saxatilis,,22708257,Monticola saxatilis,B,22708257,Monticola saxatilis,,,False
+236,A281,Monticola solitarius,,22708286,Monticola solitarius,B,22708286,Monticola solitarius,,,False
+237,A358,Montifringilla nivalis,,22718322,Montifringilla nivalis,B,22718322,Montifringilla nivalis,,,False
+238,A016,Morus bassanus,,22696657,Morus bassanus,B,22696657,Morus bassanus,,,False
+239,A262,Motacilla alba,,22718348,Motacilla alba,B,22718348,Motacilla alba,,,False
+240,A261,Motacilla cinerea,,22718392,Motacilla cinerea,B,22718392,Motacilla cinerea,,,False
+241,A608,Motacilla citreola,,22718379,Motacilla citreola,B,22718379,Motacilla citreola,,,False
+242,A260,Motacilla flava,,22718385,Motacilla flava,B,22718385,Motacilla flava,,,False
+243,A319,Muscicapa striata,,22709192,Muscicapa striata,B,22709192,Muscicapa striata,,,False
+244,A077,Neophron percnopterus,,22695180,Neophron percnopterus,B,22695180,Neophron percnopterus,,,False
+245,A058-A,Netta rufina,South-west & Central Europe/West Mediterranean,22680348,Netta rufina,B,22680348,Netta rufina,22680348,Netta rufina,False
+246,A058-B,Netta rufina,Black Sea & East Mediterranean,22680348,Netta rufina,B,22680348,Netta rufina,22680348,Netta rufina,False
+247,A058-X,Netta rufina,,,,,,,,,False
+248,A344,Nucifraga caryocatactes,,22705912,Nucifraga caryocatactes,B,22705912,Nucifraga caryocatactes,,,False
+249,A158,Numenius phaeopus,,22693178,Numenius phaeopus,B,22693178,Numenius phaeopus,22693178,Numenius phaeopus,False
+250,A159,Numenius tenuirostris,Central Siberia/Mediterranean & SW Asia,22693185,Numenius tenuirostris,W,,,22693185,Numenius tenuirostris,False
+251,A390,Oceanodroma castro,,22735803,Oceanodroma castro,B,22735803,Oceanodroma castro,,,False
+252,A015,Oceanodroma leucorhoa,,22698511,Oceanodroma leucorhoa,B,22698511,Oceanodroma leucorhoa,,,False
+253,A630,Oceanodroma monteiroi,,22735624,Oceanodroma monteiroi,B,22735624,Oceanodroma monteiroi,,,False
+254,A467,Oenanthe cypriaca,,22710312,Oenanthe cypriaca,B,22710312,Oenanthe cypriaca,,,False
+255,A278,Oenanthe hispanica,,22710302,Oenanthe hispanica,B,22710302,Oenanthe hispanica,,,False
+256,A435,Oenanthe isabellina,,22710333,Oenanthe isabellina,B,22710333,Oenanthe isabellina,,,False
+257,A279,Oenanthe leucura,,22710259,Oenanthe leucura,B,22710259,Oenanthe leucura,,,False
+258,A277,Oenanthe oenanthe,,22710272,Oenanthe oenanthe,B,22710272,Oenanthe oenanthe,,,False
+259,A533,Oenanthe pleschanka,,22710308,Oenanthe pleschanka,B,22710308,Oenanthe pleschanka,,,False
+260,A337,Oriolus oriolus,,22706382,Oriolus oriolus,B,22706382,Oriolus oriolus,,,False
+261,A129,Otis tarda,,22691900,Otis tarda,B,22691900,Otis tarda,22691900,Otis tarda,False
+262,A214,Otus scops,,22688643,Otus scops,B,22688643,Otus scops,,,False
+263,A071-A,Oxyura leucocephala,West Mediterranean (Spain & Morocco),22679814,Oxyura leucocephala,B,22679814,Oxyura leucocephala,22679814,Oxyura leucocephala,False
+264,A071-B,Oxyura leucocephala,"East Mediterranean, Turkey & South-west Asia",22679814,Oxyura leucocephala,B,22679814,Oxyura leucocephala,22679814,Oxyura leucocephala,False
+265,A094,Pandion haliaetus,,22694938,Pandion haliaetus,B,22694938,Pandion haliaetus,,,False
+266,A323,Panurus biarmicus,,22716776,Panurus biarmicus,B,22716776,Panurus biarmicus,,,False
+267,A329,Parus caeruleus,,22711944,Parus caeruleus,B,22711944,Parus caeruleus,,,False
+268,A537,Parus cinctus,,22711750,Parus cinctus,B,22711750,Parus cinctus,,,False
+269,A327,Parus cristatus,,22711810,Parus cristatus,B,22711810,Parus cristatus,,,False
+270,A443,Parus lugubris,,22711698,Parus lugubris,B,22711698,Parus lugubris,,,False
+271,A330,Parus major,,22735990,Parus major,B,22735990,Parus major,,,False
+272,A326,Parus montanus,,22711703,Parus montanus,B,22711703,Parus montanus,,,False
+273,A325,Parus palustris,,22735995,Parus palustris,B,22735995,Parus palustris,,,False
+274,A620,Passer domesticus,,22718174,Passer domesticus,B,22718174,Passer domesticus,,,False
+275,A356,Passer montanus,,22718270,Passer montanus,B,22718270,Passer montanus,,,False
+276,A389,Pelagodroma marina,,22698453,Pelagodroma marina,B,22698453,Pelagodroma marina,,,False
+277,A020,Pelecanus crispus,Black Sea & Mediterranean (win),22697599,Pelecanus crispus,B,22697599,Pelecanus crispus,22697599,Pelecanus crispus,False
+278,A019,Pelecanus onocrotalus,Europe & Western Asia (bre),22697590,Pelecanus onocrotalus,B,22697590,Pelecanus onocrotalus,22697590,Pelecanus onocrotalus,False
+279,A548,Perisoreus infaustus,,22705775,Perisoreus infaustus,B,22705775,Perisoreus infaustus,,,False
+280,A072,Pernis apivorus,,22694989,Pernis apivorus,B,22694989,Pernis apivorus,,,False
+281,A357,Petronia petronia,,22718307,Petronia petronia,B,22718307,Petronia petronia,,,False
+282,A393,Phalacrocorax pygmeus,Black Sea & Mediterranean,22696734,Phalacrocorax pygmeus,B,22696734,Phalacrocorax pygmeus,22696734,Phalacrocorax pygmeus,False
+283,A170,Phalaropus lobatus,,22693490,Phalaropus lobatus,B,22693490,Phalaropus lobatus,,,False
+284,A115-X,Phasianus colchicus,,945100023,Phasianus colchicus,B,945100023,Phasianus colchicus,,,False
+285,A151,Philomachus pugnax,,22693468,Philomachus pugnax,B,22693468,Philomachus pugnax,,,False
+286,A663-A,Phoenicopterus roseus,West Mediterranean,22697360,Phoenicopterus roseus,B,22697360,Phoenicopterus roseus,22697360,Phoenicopterus roseus,False
+287,A663-B,Phoenicopterus roseus,East Mediterranean,22697360,Phoenicopterus roseus,B,22697360,Phoenicopterus roseus,22697360,Phoenicopterus roseus,False
+288,A273,Phoenicurus ochruros,,22710051,Phoenicurus ochruros,B,22710051,Phoenicurus ochruros,,,False
+289,A274,Phoenicurus phoenicurus,,22710055,Phoenicurus phoenicurus,B,22710055,Phoenicurus phoenicurus,,,False
+290,A313,Phylloscopus bonelli,,22730987,Phylloscopus bonelli,B,22730987,Phylloscopus bonelli,,,False
+291,A605,Phylloscopus borealis,,22715316,Phylloscopus borealis,B,22715316,Phylloscopus borealis,,,False
+292,A613,Phylloscopus canariensis,,22729528,Phylloscopus canariensis,B,22729528,Phylloscopus canariensis,,,False
+293,A315,Phylloscopus collybita,,22715244,Phylloscopus collybita,B,22715244,Phylloscopus collybita,,,False
+294,A618,Phylloscopus ibericus,,22729520,Phylloscopus ibericus,B,22729520,Phylloscopus ibericus,,,False
+295,A314,Phylloscopus sibilatrix,,22715260,Phylloscopus sibilatrix,B,22715260,Phylloscopus sibilatrix,,,False
+296,A312,Phylloscopus trochiloides,,22715319,Phylloscopus trochiloides,B,22715319,Phylloscopus trochiloides,,,False
+297,A316,Phylloscopus trochilus,,22715240,Phylloscopus trochilus,B,22715240,Phylloscopus trochilus,,,False
+298,A343,Pica pica,,22705865,Pica pica,B,22705865,Pica pica,,,False
+299,A241,Picoides tridactylus,,22727137,Picoides tridactylus,B,22727137,Picoides tridactylus,,,False
+300,A234,Picus canus,,22726503,Picus canus,B,22726503,Picus canus,,,False
+301,A235,Picus viridis,,22725022,Picus viridis,B,22681463,Picus viridis,,,False
+302,A235,Picus viridis,,22725015,Picus sharpei,B,22681463,Picus viridis,,,False
+303,A545,Pinicola enucleator,,22720625,Pinicola enucleator,B,22720625,Pinicola enucleator,,,False
+304,A375,Plectrophenax nivalis,,22721043,Plectrophenax nivalis,B,22721043,Plectrophenax nivalis,,,False
+305,A140,Pluvialis apricaria,,22693727,Pluvialis apricaria,B,22693727,Pluvialis apricaria,22693727,Pluvialis apricaria,False
+306,A141,Pluvialis squatarola,W Siberia & Canada/W Europe & W Africa,22693749,Pluvialis squatarola,W,,,22693749,Pluvialis squatarola,False
+307,A506,Polysticta stelleri,Western Siberia/North-east Europe,22680415,Polysticta stelleri,W,,,22680415,Polysticta stelleri,False
+308,A119,Porzana porzana,Europe/Africa,22692676,Porzana porzana,B,22692676,Porzana porzana,,,False
+309,A267,Prunella collaris,,22718617,Prunella collaris,B,22718617,Prunella collaris,,,False
+310,A266,Prunella modularis,,22718651,Prunella modularis,B,22718651,Prunella modularis,,,False
+311,A205,Pterocles alchata,,22692983,Pterocles alchata,B,22692983,Pterocles alchata,,,False
+312,A420,Pterocles orientalis,,22693002,Pterocles orientalis,B,22693002,Pterocles orientalis,,,False
+313,A386,Pterodroma feae,,22736135,Pterodroma feae,B,22736135,Pterodroma feae,,,False
+314,A385,Pterodroma madeira,,22698062,Pterodroma madeira,B,22698062,Pterodroma madeira,,,False
+315,A693,Puffinus mauretanicus,,22728432,Puffinus mauretanicus,B,22728432,Puffinus mauretanicus,,,False
+316,A013,Puffinus puffinus,,22698226,Puffinus puffinus,B,22698226,Puffinus puffinus,,,False
+317,A464,Puffinus yelkouan,,22698230,Puffinus yelkouan,B,22698230,Puffinus yelkouan,,,False
+318,A345,Pyrrhocorax graculus,,22705921,Pyrrhocorax graculus,B,22705921,Pyrrhocorax graculus,,,False
+319,A346,Pyrrhocorax pyrrhocorax,,22705916,Pyrrhocorax pyrrhocorax,B,22705916,Pyrrhocorax pyrrhocorax,,,False
+320,A453,Pyrrhula murina,,22720676,Pyrrhula murina,B,22720676,Pyrrhula murina,,,False
+321,A372,Pyrrhula pyrrhula,,22720671,Pyrrhula pyrrhula,B,22720671,Pyrrhula pyrrhula,,,False
+322,A132-A,Recurvirostra avosetta,Western Europe & North-west Africa (bre),22693712,Recurvirostra avosetta,B,22693712,Recurvirostra avosetta,22693712,Recurvirostra avosetta,False
+323,A132-B,Recurvirostra avosetta,"South-east Europe, Black Sea & Turkey (bre)",22693712,Recurvirostra avosetta,B,22693712,Recurvirostra avosetta,22693712,Recurvirostra avosetta,False
+324,A318,Regulus ignicapillus,,22735002,Regulus ignicapillus,B,22735002,Regulus ignicapillus,,,False
+325,A652,Regulus madeirensis,,22734358,Regulus madeirensis,B,22734358,Regulus madeirensis,,,False
+326,A317,Regulus regulus,,22734997,Regulus regulus,B,22734997,Regulus regulus,,,False
+327,A336,Remiz pendulinus,,22736148,Remiz pendulinus,B,22736148,Remiz pendulinus,,,False
+328,A249,Riparia riparia,,22712176,Riparia riparia,B,22712176,Riparia riparia,,,False
+329,A188,Rissa tridactyla,,22694497,Rissa tridactyla,B,22694497,Rissa tridactyla,,,False
+330,A437,Saxicola dacotiae,,22710177,Saxicola dacotiae,B,22710177,Saxicola dacotiae,,,False
+331,A275,Saxicola rubetra,,22710156,Saxicola rubetra,B,22710156,Saxicola rubetra,,,False
+332,A276,Saxicola torquatus,,22710184,Saxicola torquatus,B,22710184,Saxicola torquatus,,,False
+333,A155,Scolopax rusticola,Europe/South & West Europe & North Africa,22693052,Scolopax rusticola,B,22693052,Scolopax rusticola,,,False
+334,A450,Serinus canaria,,22720056,Serinus canaria,B,22720056,Serinus canaria,,,False
+335,A361,Serinus serinus,,22720049,Serinus serinus,B,22720049,Serinus serinus,,,False
+336,A332,Sitta europaea,,22711150,Sitta europaea,B,22711150,Sitta europaea,,,False
+337,A445,Sitta neumayer,,22711205,Sitta neumayer,B,22711205,Sitta neumayer,,,False
+338,A331,Sitta whiteheadi,,22711176,Sitta whiteheadi,B,22711176,Sitta whiteheadi,,,False
+339,A063,Somateria mollissima,,22680405,Somateria mollissima,B,22680405,Somateria mollissima,22680405,Somateria mollissima,False
+340,A174,Stercorarius longicaudus,,22694251,Stercorarius longicaudus,B,22694251,Stercorarius longicaudus,,,False
+341,A173,Stercorarius parasiticus,,22694245,Stercorarius parasiticus,B,22694245,Stercorarius parasiticus,,,False
+342,A193,Sterna hirundo,,22694623,Sterna hirundo,B,22694623,Sterna hirundo,,,False
+343,A194,Sterna paradisaea,,22694629,Sterna paradisaea,B,22694629,Sterna paradisaea,,,False
+344,A191,Sterna sandvicensis,,22694591,Sterna sandvicensis,B,22694591,Sterna sandvicensis,,,False
+345,A209,Streptopelia decaocto,,22727811,Streptopelia decaocto,B,22727811,Streptopelia decaocto,,,False
+346,A210,Streptopelia turtur,,22690419,Streptopelia turtur,B,22690419,Streptopelia turtur,,,False
+347,A219,Strix aluco,,22725469,Strix aluco,B,22725469,Strix aluco,,,False
+348,A457,Strix nebulosa,,22689118,Strix nebulosa,B,22689118,Strix nebulosa,,,False
+349,A220,Strix uralensis,,22689108,Strix uralensis,B,22689108,Strix uralensis,,,False
+350,A353,Sturnus roseus,,22710881,Sturnus roseus,B,22710881,Sturnus roseus,,,False
+351,A352,Sturnus unicolor,,22710893,Sturnus unicolor,B,22710893,Sturnus unicolor,,,False
+352,A351,Sturnus vulgaris,,22710886,Sturnus vulgaris,B,22710886,Sturnus vulgaris,,,False
+353,A456,Surnia ulula,,22689189,Surnia ulula,B,22689189,Surnia ulula,,,False
+354,A311,Sylvia atricapilla,,22716901,Sylvia atricapilla,B,22716901,Sylvia atricapilla,,,False
+355,A310,Sylvia borin,,22716906,Sylvia borin,B,22716906,Sylvia borin,,,False
+356,A309,Sylvia communis,,22716910,Sylvia communis,B,22716910,Sylvia communis,,,False
