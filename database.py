@@ -13,7 +13,7 @@ def create_server_connection(host_name,user_name,user_password):
         )
         print("MySQL Database Connection Successul")
     except Error as error:
-        print(f"Error: '{err}'")
+        print(f"Error: '{error}'")
     
     return connection
 
@@ -23,5 +23,5 @@ def create_database(connection, query):
         cursor.execute(query)
         print("Database Created Successully")
     except Error as error:
-        print(f"Error: '{err}'")
+        print(f"Error: '{error}'")
     
