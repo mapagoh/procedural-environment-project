@@ -1,6 +1,18 @@
-from multiprocessing import connection
+from dotenv import load_dotenv
+load_dotenv()
+import os
+import MySQLdb
+import mysql.connector
 
-from database import create_server_connection
+connection = mysql.connector.connect(
+  host= os.getenv("HOST"),
+  user=os.getenv("USERNAME"),
+  passwd= os.getenv("PASSWORD"),
+  db= os.getenv("DATABASE"),
+  
+)
 
+cursor=connection.cursor()
+cursor.execute("/queries/create/main.sql")
 
-connection=create_server_connection("localhost", "root", pw)
+connection.close()

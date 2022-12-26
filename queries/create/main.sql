@@ -6,7 +6,7 @@ create table crosslinkage
     sub_unit varchar(255),
     assessment_code_EU int,
     assessment_specname_EU varchar(255),
-    season int,
+    season varchar(10),
     assessment_code_trend_breeding int,
     assessment_specname_trend_breeding varchar(155),
     assessment_code_trend_wintering int,
@@ -65,6 +65,38 @@ create table bgpublication
 )
 
 BULK INSERT bgpublication FROM "../../data/data_bgpublication.csv"
+WITH(FIRSTROW = 2, FIELDTERMINATOR = ",", ROWTERMINATOR = "\n", BATCHSIZE = 25000, MAXERRORS = 8);
+
+create table bgreport
+(
+    bgreporthash varchar(60),
+    country varchar(10),
+    country_isocode varchar(10),
+    achievements varchar(255),
+    achievements_trans varchar(255),
+    general_information varchar(255),
+    information_on_network varchar(255),
+    monitoring_schemes varchar(255),
+    protection_of_species varchar(255),
+    transpose_directive varchar(255),
+    spa_total_number int,
+    spa_total_area float,
+    spa_terrestrial_area float,
+    spa_marine_number int,
+    spa_marine_area float,
+    database_date varchar(30),
+    sites_with_plans int,
+    coverage float,
+    plans_under_prep int,
+    national_bird_atlas_title varchar(60),
+    national_bird_atlas_year int,
+    national_bird_atlas_reference varchar(60),
+    national_bird_redlist_title varchar(30),
+    national_bird_redlist_year int,
+    national_bird_redlist_reference varchar(255)
+)
+
+BULK INSERT bgreport FROM "../../data/data_bgreport.csv"
 WITH(FIRSTROW = 2, FIELDTERMINATOR = ",", ROWTERMINATOR = "\n", BATCHSIZE = 25000, MAXERRORS = 8);
 
 create table birds_check_list
@@ -140,13 +172,90 @@ create table birds_eu_wintering_trends
     WiPopSizeMinRnd int,
     WiPopSizeMaxRnd int,
     WiPopTrdSht varchar(10),
-    WiPopTrdLng varchar(10),
+    WiPopTrdLng varchar(10)
 )
+
 
 BULK INSERT birds_eu_wintering_trends FROM "../../data/data_birds_eu_wintering_trends.csv"
 WITH(FIRSTROW = 2, FIELDTERMINATOR = ",", ROWTERMINATOR = "\n", BATCHSIZE = 25000, MAXERRORS = 8);
 
-create table bmeadures
+create table birds
+(
+    specieshash varchar(60),
+    country varchar(10),
+    country_isocode varchar(10),
+    euringcode int,
+    speciescode varchar(10),
+    speciesname varchar(60),
+    sub_unit varchar(60),
+    alternative_speciesname varchar(30),
+    common_speciesname varchar(60),
+    season varchar(10),
+    population_date varchar(10),
+    population_size_unit varchar(10),
+    population_minimum_size int,
+    population_maximum_size int,
+    population_type_of_estimate varchar(30),
+    population_method int,
+    popilation_quality int,
+    population_sources varchar(255),
+    population_aditional_info varchar(255),
+    population_trend_period varchar(10),
+    population_trend varchar(30),
+    population_trend_magnitude_min float,
+    population_trend_magnitude_max float,
+    population_trend_method int,
+    population_trend_quality int,
+    population_trend_sources varchar(255),
+    population_trend_long_period varchar(30),
+    population_trend_long varchar(10),
+    population_trend_long_magnitude_min float,
+    population_trend_long_magnitude_max float,
+    population_trend_long_method int,
+    population_trend_long_quality int,
+    population_trend_long_sources varchar(255),
+    population_trend_additional_info varchar(255),
+    range_period varchar(10),
+    sensitive_species int,
+    distribution_map int,
+    aditional_distribution_map int,
+    range_map int,
+    range_surface_area float,
+    range_method int,
+    range_quality int,
+    range_sources varchar(255),
+    range_additional_info varchar(155),
+    range_trend_period varchar(10),
+    range_trend varchar(30),
+    range_trend_magnitude_min float,
+    range_trend_magnitude_max float,
+    range_trend_method int,
+    range_trend_quality int,
+    range_trend_sources varchar(255),
+    range_trend_long_period varchar(30),
+    range_trend_long varchar(10),
+    range_trend_long_magnitude_min float,
+    range_trend_long_magnitude_max float,
+    range_trend_long_method int,
+    range_trend_long_quality int,
+    range_trend_long_sources varchar(255),
+    range_trend_additional_info varchar(255),
+    plan varchar(10),
+    national_plan_adopted int,
+    measures_taken varchar(255),
+    further_information varchar(255),
+    spa_population_unit varchar(60),
+    spa_population_min int,
+    spa_population_max int,
+    spa_population_method int,
+    spa_population_trend varchar(10),
+    use_for_statistics int
+
+)
+BULK INSERT birds FROM "../../data/data_birds.csv"
+WITH(FIRSTROW = 2, FIELDTERMINATOR = ",", ROWTERMINATOR = "\n", BATCHSIZE = 25000, MAXERRORS = 8);
+
+create table bmeasures
 (
   measurehash varchar(60),
   specieshash varchar(60),
@@ -165,7 +274,7 @@ create table bmeadures
   broad_evaluation_longterm int,
   broad_evaluation_noeffect int,
   broad_evaluation_unknown int,
-  broad_evaluation_notevaluated int,
+  broad_evaluation_notevaluated int
 )
 
 BULK INSERT bmeasures FROM "../../data/data_bmeasures.csv"
@@ -194,10 +303,8 @@ create table species_birds_maes_EU27
     codeeco varchar(30),
     typeasso varchar(10),
     season varchar(10),
-    region varchar(10),
+    region varchar(10)
 )
 
 BULK INSERT species_birds_maes_EU27 FROM "../../data/species_birds_maes_EU27.csv"
 WITH(FIRSTROW = 2, FIELDTERMINATOR = ",", ROWTERMINATOR = "\n", BATCHSIZE = 25000, MAXERRORS = 8);
-
-
