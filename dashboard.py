@@ -30,12 +30,9 @@ plt.plot(data3)
 
 
 data_bgpublication=pd.read_csv("/data/data_bgpublication.csv")
-other_publication_title=pd.DataFrame({"t":data_bgpublication["other_publication_title"]})
 other_publication_year=pd.DataFrame({"y":data_bgpublication["other_publication_year"]})
-data2=other_publication_title["t"].value_counts()
-data3=other_publication_year["y"].value_counts()
+data2=other_publication_year["y"].value_counts()
 plt.plot(data2)
-plt.plot(data3)
 
 
 data_birds_check_list=pd.read_csv("/data/data_birds_check_list.csv")
