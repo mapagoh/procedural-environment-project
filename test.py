@@ -9,7 +9,7 @@ def integral(data, a, b):
     f=lambda x:np.exp(l**2)
     i=scipy.integrate.quad(f,a,b)
 
-crosslinkage = pd.read_csv("/data/cosslinkage_table.csv")
+crosslinkage=pd.read_csv("/data/cosslinkage_table.csv")
 l=linealg.det(crosslinkage)
 f=lambda x:np.exp(l**2)
 i=scipy.integrate.quad(f,0,1)
