@@ -3,26 +3,20 @@ import pandas as pd
 import numpy as np
 import scipy.integrate
 
-from scipy import linealg
+from scipy import linalg
 def integral(data, a, b):
-    l=linealg.det(data)
+    l=np.linalg.det([[2, 4], [8, 6]])
     f=lambda x:np.exp(l**2)
-    i=scipy.integrate.quad(f,a,b)
+    i=scipy.integrate.quad(f,0,1)
 
 crosslinkage=pd.read_csv("/data/cosslinkage_table.csv")
-l=linealg.det(crosslinkage)
-f=lambda x:np.exp(l**2)
-i=scipy.integrate.quad(f,0,1)
+integral(crosslinkage,0.8,4)
 
 bgmeasures=pd.read_csv("/data/data_bgmeasures.csv")
-l=linealg.det(bgmeasures)
-f=lambda x:np.exp(l**2)
-i=scipy.integrate.quad(f,0,2)
+integral(bgmeasures,4,0.3)
 
 bgmonitoring=pd.read_csv("/data/data_bgmonitoring.csv")
-l=linealg.det(bgmonitoring)
-f=lambda x:np.exp(l**2)
-i=scipy.integrate.quad(f,0,3)
+integral(bgmonitoring,0,9)
 
 bgnon_native_bird=pd.read_csv("/data/data_bgnon_native_bird.csv")
 integral(bgnon_native_bird,0,4)
