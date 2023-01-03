@@ -45,11 +45,11 @@ It is observed that the year with the highest publication of articles on bird re
 
 In the year where more reports of national atlases of birds are presented, it is in the year 2012.
 
-<img src="/images/21.jpg" style="width: 260px">
+<img src="/images/21.JPG" style="width: 260px">
 
 Continuing with the previous graph, the year where there was more presence of national birds in danger of extincion or red list, was 2010.
 
-<img src="/images/22.jpg" style="width: 260px">
+<img src="/images/22.JPG" style="width: 260px">
 
 #### data_birds_check_list
 
@@ -69,7 +69,7 @@ This graph is related to the previous one since they have a similar trend and th
 
 Taking into account the trend chart for pups in the EU, it can be seen that the most representative population is P.
 
-<img src="/images/8.jpg" style="width: 260px">
+<img src="/images/8.JPG" style="width: 260px">
 
 #### data_birds_eu_status
 
@@ -89,11 +89,11 @@ The most found population size unit with 400 units is P.
 
 This graph shows the values that exert the most pressure on birds.
 
- <img src="/images/9.jpg" style="width: 260px">
+ <img src="/images/9.JPG" style="width: 260px">
 
 The most widely used clssification code in threat pressure is M.
 
-  <img src="/images/10.jpg" style="width: 260px">
+  <img src="/images/10.JPG" style="width: 260px">
 
 #### data_birds
 
@@ -103,7 +103,7 @@ This graph presents the countries that have carried out studies on birds.
 
 This graph presents the name of the most studied and found species around the world.
 
- <img src="/images/2.jpg" style="width: 260px">
+ <img src="/images/2.JPG" style="width: 260px">
 
  This graph presents the sub-units where the majority of bird species are found.
 
@@ -111,7 +111,7 @@ This graph presents the name of the most studied and found species around the wo
 
  There are certain species that are more common to find than others, in this there are almost speecies that are found up to 8 times in these studies and different countries.
 
- <img src="/images/4.jpg" style="width: 260px">
+ <img src="/images/4.JPG" style="width: 260px">
 
  Taking into account the graph, it can be seen that the time when birds can be observed and monitored the most is in B.
 
@@ -119,11 +119,11 @@ This graph presents the name of the most studied and found species around the wo
 
 The population of birds more found in the studies and differents countries is the P.
 
-<img src="/images/6.jpg" style="width: 260px">
+<img src="/images/6.JPG" style="width: 260px">
 
 The vast majority of the estimated bird population types are in a better estimate, implying that the birds have good living conditions.
 
-<img src="/images/7.jpg" style="width: 260px">
+<img src="/images/7.JPG" style="width: 260px">
 
 
 #### species_birds_maes_EU27
