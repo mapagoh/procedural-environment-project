@@ -1,4 +1,5 @@
-PROCEDURAL ENVIRONMENT PROJECT REPORT
+## PROCEDURAL ENVIRONMENT PROJECT REPORT
+
 Analize the Procedural Environment Project, which consists in the analysis of Birds at around world, the investigation her have, the years in the done the investigation, titles of the investigation, that type of species are they, and so on. This allows us to have a broader vision to proceed with the data analysis.
 
 This project is done in programming language Python and SQL, libraries as Pandas, NumPy and Matplot, and Planet Scale for host the database in the cloud.
@@ -40,6 +41,16 @@ It is observed that the year with the highest publication of articles on bird re
 
  ![](/images/Imagen7.png)
 
+#### data_bgreport
+
+In the year where more reports of national atlases of birds are presented, it is in the year 2012.
+
+<img src="/images/21.jpg" style="width: 260px">
+
+Continuing with the previous graph, the year where there was more presence of national birds in danger of extincion or red list, was 2010.
+
+<img src="/images/22.jpg" style="width: 260px">
+
 #### data_birds_check_list
 
 This graph presents the countries that have carried out studies on birds. These studies represent the importance and respect they give to nature and serve to keep track of these species.
@@ -53,6 +64,12 @@ This graph is related to the previous one because it represents the species with
 This graph is related to the previous one since they have a similar trend and this graph presents the assessments of species in the EU.
 
  ![](/images/Imagen10.png)
+
+#### data_birds_eu_breeding_trends
+
+Taking into account the trend chart for pups in the EU, it can be seen that the most representative population is P.
+
+<img src="/images/8.jpg" style="width: 260px">
 
 #### data_birds_eu_status
 
@@ -68,23 +85,46 @@ The most found population size unit with 400 units is P.
 
  ![](/images/Imagen13.png)
 
+#### data_bpressures_threats
+
+This graph shows the values that exert the most pressure on birds.
+
+ <img src="/images/9.jpg" style="width: 260px">
+
+The most widely used clssification code in threat pressure is M.
+
+  <img src="/images/10.jpg" style="width: 260px">
+
 #### data_birds
 
 This graph presents the countries that have carried out studies on birds.
 
  ![](/images/Imagen14.png)
 
-The most found population size unit with 1600 about units is P.
+This graph presents the name of the most studied and found species around the world.
 
- ![](/images/Imagen15.png)
+ <img src="/images/2.jpg" style="width: 260px">
 
-Taking into account the graph, it can be seen that the time when birds can be observed and monitored the most is in B.
+ This graph presents the sub-units where the majority of bird species are found.
+
+ ![](/images/Imagen17.png)
+
+ There are certain species that are more common to find than others, in this there are almost speecies that are found up to 8 times in these studies and different countries.
+
+ <img src="/images/4.jpg" style="width: 260px">
+
+ Taking into account the graph, it can be seen that the time when birds can be observed and monitored the most is in B.
 
  ![](/images/Imagen16.png)
 
-This graph presents the sub-units where the majority of bird species are found.
+The population of birds more found in the studies and differents countries is the P.
 
- ![](/images/Imagen17.png)
+<img src="/images/6.jpg" style="width: 260px">
+
+The vast majority of the estimated bird population types are in a better estimate, implying that the birds have good living conditions.
+
+<img src="/images/7.jpg" style="width: 260px">
+
 
 #### species_birds_maes_EU27
 

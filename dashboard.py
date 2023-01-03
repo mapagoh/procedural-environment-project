@@ -94,7 +94,7 @@ plt.plot(data3)
 plt.plot(data4)
 
 
-data_bpressures_threats=pd.read_csv("data_bpressures_threats.csv")
+data_bpressures_threats=pd.read_csv("/data/data_bpressures_threats.csv")
 pressurecode=pd.DataFrame({"p":data_bpressures_threats["pressurecode"]})
 rankingcode=pd.DataFrame({"r":data_bpressures_threats["rankingcode"]})
 data2=pressurecode["p"].value_counts()
