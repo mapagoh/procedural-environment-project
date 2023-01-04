@@ -1,116 +1,195 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from main import connection
 
-crosslinkage_table = pd.read_csv("/data/crosslinkage_table.csv")
-speciesname=pd.DataFrame({"s":crosslinkage_table["speciesname"]})
-assessment_specname_EU=pd.DataFrame({"a":crosslinkage_table["assessment_specname_EU"]})
-data2=speciesname["s"].value_counts()
-data3=assessment_specname_EU["a"].value_counts()
+table= "crosslinkage"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"s":df["speciesname"]})
+col2=pd.DataFrame({"a":df["assessment_specname_EU"]})
+data2=col1["s"].value_counts()
+data3=col2["a"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 
 
-data_bgmeasures=pd.read_csv("/data/data_bgmeasures.csv")
-sitename=pd.DataFrame({"s":data_bgmeasures["sitename"]})
-project_year=pd.DataFrame({"p":data_bgmeasures["project_year"]})
-data2=sitename["s"].value_counts()
-data3=project_year["p"].value_counts()
+table= "bgmeasures"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"s":df["sitename"]})
+col2=pd.DataFrame({"p":df["project_year"]})
+data2=col1["s"].value_counts()
+data3=col2["p"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 
 
-data_bgmonitoring=pd.read_csv("/data/data_bgmonitoring.csv")
-monitoring_title=pd.DataFrame({"m":data_bgmonitoring["monitoring_title"]})
-monitoring_year=pd.DataFrame({"my":data_bgmonitoring["monitoring_year"]})
-data2=monitoring_title["m"].value_counts()
-data3=monitoring_year["my"].value_counts()
+table= "bgmonitoring"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col2=pd.DataFrame({"p":df["monitoring_year"]})
+data3=col2["p"].value_counts()
+plt.plot(data3)
+
+
+table= "bgpublication"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+col2=pd.DataFrame({"p":df["other_publication_year"]})
+data3=col2["p"].value_counts()
+plt.plot(data3)
+
+
+table= "data_bgreport"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"s":df["national_bird_atlas_year"]})
+col2=pd.DataFrame({"p":df["national_bird_redlist_year"]})
+data2=col1["s"].value_counts()
+data3=col2["p"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 
 
-data_bgpublication=pd.read_csv("/data/data_bgpublication.csv")
-other_publication_year=pd.DataFrame({"y":data_bgpublication["other_publication_year"]})
-data2=other_publication_year["y"].value_counts()
-plt.plot(data2)
+table= "birds"
 
-data_bgreport=pd.read_csv("/data/data_bgreport.csv")
-national_bird_atlas_year=pd.DataFrame({"a":data_bgreport["national_bird_atlas_year"]})
-national_bird_redlist_year=pd.DataFrame({"r":data_bgreport["national_bird_redlist_year"]})
-data2=national_bird_atlas_year["a"].value_counts()
-data3=national_bird_redlist_year["r"].value_counts()
-plt.plot(data2)
-plt.plot(data3)
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
 
-data_birds=pd.read_csv("/data/data_birds.csv")
-country=pd.DataFrame({"c":data_birds["country"]})
-speciesname=pd.DataFrame({"s":data_birds["speciesname"]})
-sub_unit=pd.DataFrame({"su":data_birds["sub_unit"]})
-common_speciesname=pd.DataFrame({"cs":data_birds["common_speciesname"]})
-season=pd.DataFrame({"se":data_birds["season"]})
-population_size_unit=pd.DataFrame({"p":data_birds["population_size_unit"]})
-population_type_of_estimate=pd.DataFrame({"pt":data_birds["population_type_of_estimate"]})
-data2=country["c"].value_counts()
-data3=speciesname["s"].value_counts()
-data4=sub_unit["su"].value_counts()
-data5=common_speciesname["cs"].value_counts()
-data6=season["se"].value_counts()
-data7=population_size_unit["p"].value_counts()
-data8=population_type_of_estimate["pt"].value_counts()
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["country"]})
+col2=pd.DataFrame({"b":df["speciesname"]})
+col3=pd.DataFrame({"c":df["sub_unit"]})
+col4=pd.DataFrame({"d":df["common_speciesname"]})
+data2=col1["a"].value_counts()
+data3=col2["b"].value_counts()
+data4=col3["c"].value_counts()
+data5=col4["d"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 plt.plot(data4)
 plt.plot(data5)
-plt.plot(data6)
-plt.plot(data7)
-plt.plot(data8)
-
-data_birds_check_list=pd.read_csv("/data/data_birds_check_list.csv")
-country=pd.DataFrame({"c":data_birds_check_list["country"]})
-speciesname=pd.DataFrame({"s":data_birds_check_list["speciesname"]})
-assessment_specname_EU=pd.DataFrame({"a":data_birds_check_list["assessment_specname_EU"]})
-data2=country["c"].value_counts()
-data3=speciesname["s"].value_counts()
-data4=assessment_specname_EU["a"].value_counts()
-plt.plot(data2)
-plt.plot(data3)
-plt.plot(data4)
-
-data_birds_eu_breeding_trends=pd.read_csv("/data/data_birds_eu_breeding_trends.csv")
-population_size_unit=pd.DataFrame({"ps":data_birds_eu_breeding_trends["population_size_unit"]})
-data2=population_size_unit["ps"].value_counts()
-plt.plot(data2)
 
 
-data_birds_eu_status=pd.read_csv("/data/data_birds_eu_status.csv")
-season=pd.DataFrame({"s":data_birds_eu_status["season"]})
-Population_status=pd.DataFrame({"p":data_birds_eu_status["Population_status"]})
-population_size_unit=pd.DataFrame({"u":data_birds_eu_status["population_size_unit"]})
-data2=season["s"].value_counts()
-data3=Population_status["p"].value_counts()
-data4=population_size_unit["u"].value_counts()
+table= "birds_check_list"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["country"]})
+col2=pd.DataFrame({"b":df["speciesname"]})
+col3=pd.DataFrame({"c":df["assessment_specname_EU"]})
+data2=col1["a"].value_counts()
+data3=col2["b"].value_counts()
+data4=col3["c"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 plt.plot(data4)
 
 
-data_bpressures_threats=pd.read_csv("/data/data_bpressures_threats.csv")
-pressurecode=pd.DataFrame({"p":data_bpressures_threats["pressurecode"]})
-rankingcode=pd.DataFrame({"r":data_bpressures_threats["rankingcode"]})
-data2=pressurecode["p"].value_counts()
-data3=rankingcode["r"].value_counts()
+table= "data_birds_eu_breeding_trends"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["population_size_unit"]})
+data2=col1["a"].value_counts()
+plt.plot(data2)
+
+
+table= "data_birds_eu_status"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["season"]})
+col2=pd.DataFrame({"b":df["Population_status"]})
+col3=pd.DataFrame({"c":df["population_size_unit"]})
+data2=col1["a"].value_counts()
+data3=col2["b"].value_counts()
+data4=col3["c"].value_counts()
+plt.plot(data2)
+plt.plot(data3)
+plt.plot(data4)
+
+
+table= "data_bpressures_threats"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["pressurecode"]})
+col2=pd.DataFrame({"b":df["rankingcode"]})
+data2=col1["a"].value_counts()
+data3=col2["b"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 
 
-species_birds_maes_EU27=pd.read_csv("/data/species_birds_maes_EU27.csv")
-species_birds_maes_EU27.head(150)
-speciesname=pd.DataFrame({"s":species_birds_maes_EU27["speciesname"]})
-codeeco=pd.DataFrame({"c":species_birds_maes_EU27["codeeco"]})
-sub_unit=pd.DataFrame({"su":species_birds_maes_EU27["sub_unit"]})
-data2=speciesname["s"].value_counts()
-data3=codeeco["c"].value_counts()
-data4=sub_unit["su"].value_counts()
+table= "species_birds_maes_EU27"
+
+query= "SELECT * FROM " + table
+cursor= connection.cursor()
+cursor.execute(query)
+data= cursor.fetchall()
+
+df= pd.DataFrame(data, columns= cursor.column_names)
+
+col1=pd.DataFrame({"a":df["speciesname"]})
+col2=pd.DataFrame({"b":df["codeeco"]})
+col3=pd.DataFrame({"c":df["sub_unit"]})
+data2=col1["a"].value_counts()
+data3=col2["b"].value_counts()
+data4=col3["c"].value_counts()
 plt.plot(data2)
 plt.plot(data3)
 plt.plot(data4)
